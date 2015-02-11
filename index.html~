@@ -1,0 +1,283 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SMARTS</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	<body class="homepage">
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li class="current_page_item"><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li><a href="observing.html">Observing</a></li>
+											<li>
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="nonrefereed.html">Telegrams &amp; Precedings</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+
+					<!-- Banner -->
+						<div id="banner">
+							<h2><strong>SMARTS</strong>
+							<br /><br />
+							<strong>S</strong>mall &amp; <strong>M</strong>oderate <strong>A</strong>perture <strong>R</strong>esearch <strong>T</strong>elescope <strong>S</strong>ystem</h2>
+						</div>
+
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+				
+						<!-- Feature 1 -->
+							<section class="container box feature1">
+								<div class="row">
+									<div class="12u">
+										<header class="first major">
+											<h2>Rich Science Accessible to All</h2>
+											<p>The SMARTS Consortium operates four 1-meter class telecopes on Cerro Tololo. &nbsp;<a href="http://www.astro.yale.edu/smarts/about.htm">Membership in SMARTS</a>&nbsp;is open to individuals or institutions, including international partners.</p>
+										</header>
+									</div>
+								</div>
+								<div class="row">
+									<div class="4u">
+										<section>
+											<a href="0.9m.html" class="image featured"><img src="images/ctio-0.9m.jpg" alt="" /></a>
+												<h3>0.9-m + 2KCCD</h3>
+												<p>A 13.5' x 13.5' imager with a variety of filters. Observing mode is traditional user runs.</p>
+											</header>
+										</section>
+									</div>
+									<div class="4u">
+										<section>
+											<a href="1.3m.html" class="image featured"><img src="images/ctio-1.3m.jpg" alt="" /></a>
+												<h3>1.3-m + ANDICAM</h3>
+												<p>Simultanious optical (6' x 6') and IR (2.5' x 3.5') imager. Observing preformed in queue and service mode.</p>
+											</header>
+										</section>
+									</div>
+									<div class="4u">
+										<section>
+											<a href="1.5m.html" class="image featured"><img src="images/ctio-1.5m.jpg" alt=""s/></a>
+												<h3>1.5-m + CHIRON</h3>
+												<p>High resolution spectrometer covering 410-870 nm. Observing preformed in queue and service mode.</p>
+											</header>
+										</section>
+									</div>
+								</div>
+								<div class="row">
+									<div class="12u">
+										<p>The Yale 1-m telescope is also available to private users if sufficent number of nights can be sold to ensure financial viability. The telescope is currently equipped with a 20' x 20' 4K CCD. Potential partners who are interested in providing thier own instrument are encouraged to contact the SMARTS team.</p>
+										<h1 class="icon fa-camera">  Photo-credit (left to right): Todd Henry, Fernando Cortez, CTIO</h1>
+									</div>
+								</div>
+							</section>
+
+					</div>
+				</div>
+
+				<div class="wrapper style1">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="8u">
+
+									<!-- Article list -->
+										<section class="box article-list">
+											<h2 class="icon fa-file-text-o">Science Highlights</h2>
+											
+											<!-- Excerpt -->
+												<article class="box excerpt">
+													<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
+													<div>
+														<header>
+															<h3><a href="#">Terrestrial planet found using microlensing:</a></h3>
+														</header>
+														<p>Astronomers, lead by SMARTS P.I. Andy Gould (O.S.U.), used the SMARTS 1.3-m + ANDICAM, along with data compiled from observatories around the world, to reveal the presence of a planet during a microlensing event. This exciting result was recently published in <em> Science</em>, v345, p46-49, 2014 . <a href="http://adsabs.harvard.edu/abs/2014arXiv1407.1115G">Abstract</a> | <a href="http://www.sciencemag.org/content/345/6192/46.full.pdf?sid=c82e1938-436c-4a1d-a430-215cfa3f03f8">Paper</a> | <a href="http://www.sciencemag.org/content/345/6192/46.figures-only">Figures</a></p>
+													</div>
+												</article>
+
+											<!-- Excerpt -->
+												<article class="box excerpt">
+													<a href="#" class="image left"><img src="images/pic05.jpg" alt="" /></a>
+													<div>
+														<header>
+															<h3><a href="#">The Solar Neighborhood</a></h3>
+														</header>
+														<p>The RECONS team has compiled a comprehensive-and growing-data base of every object in every system within 25 parsecs of the sun. See their video documenting their heroic efforts below. Video credit Adric Riedel.</p>
+													</div>
+												</article>
+
+											<!-- Excerpt -->
+												<article class="box excerpt">
+													<a href="#" class="image left"><img src="images/pic06.jpg" alt="" /></a>
+													<div>
+														<header>
+															<h3><a href="#">Three is a crowd</a></h3>
+														</header>
+														<p>Eric Mamajek (University of Rochester), Andreas Seifahrt (The University of Chicago) Jennifer Bartlett (U.S. Naval Observatory), Todd Henry (Georgia State University), et al used the SMARTS 0.9m telescope to measure the parallax for the third component in the Fomalhaut system, previously thought to have been a double star system.  <a href="http://www.rochester.edu/news/show.php?id=7302">Press Release</a>.</p>
+													</div>
+												</article>
+
+										</section>
+								</div>
+								<div class="4u">
+								
+									<!-- Spotlight -->
+										<section class="box spotlight">
+											<h2 class="icon fa-external-link-square">Links</h2>
+											<article>
+												<header>
+													<h3>SMARTS Members</h3>
+												</header>
+												<ul>
+													<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+													<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+													<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+													<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+													<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+													<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+													<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+													<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+													<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+													<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+													<li><a href="secondary.html">Secondary Members</a></li>
+												</ul>
+												<header>
+													<h3>Documents</h3>
+												</header>
+												<ul>
+													<li><a href="operatingplan.html">Current Operating Plan</a></li>
+													<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+												</ul>
+												<header>
+													<h3>External</h3>
+												</header>
+													<ul>
+														<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+													</ul>
+											</article>
+										</section>
+								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+	<script>
+	$('a.image.featured').css({opacity:0.9});
+	$('a.image.featured').mouseenter(
+		function(){
+			$(this).animate(
+				{"bottom":"+=10px", "opacity": 1.0}
+			)
+		}
+	).mouseleave(
+		function(){
+			$(this).animate(
+				{"bottom":"-=10px", "opacity": 0.9}
+			)
+		}
+	);
+	</script>
+	</body>
+</html>

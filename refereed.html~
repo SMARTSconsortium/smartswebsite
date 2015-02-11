@@ -1,0 +1,669 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Refereed Publications</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<script>
+$(function() {
+$( "#accordion" ).accordion({
+heightStyle: "fill",
+animate: false
+});
+});
+		</script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+			<link rel="stylesheet" href="jquery-ui-1.11.2.custom/jquery-ui.css">
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li><a href="observing.html">Observing</a></li>
+											<li>
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a class="current_page_item" href="#">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="nonrefereed.html">Telegrams &amp; Precedings</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="9u">
+									<div id="content">
+
+										<!-- Content -->
+									
+											<article>
+												<header class="major">
+													<h2>Refereed Publications</h2>
+												</header>
+												
+												<span class="image featured"><img src="images/refereed.jpg" alt="" /></span>
+												
+												<h1 class="icon fa-camera">  Photo-credit : M. Urz&uacute;a Zu&ntilde;iga/Gemini Observatory</h1>
+												
+												<!--output of referencesAPI.py goes here-->
+												<div style="height:700px;margin-bottom:20px">
+													<div id="accordion">
+<h3>2014</h3> 
+<div> 
+	<ul> 
+		<li>Angeloni, R. et al. 2014, Astronomy and Astrophysics, 567, A100. <a href="http://adsabs.harvard.edu/abs/2014A&A...567A.100A">The VVV Templates Project Towards an automated classification of VVV light-curves. I. Building a database of stellar variability in the near-infrared</a></li> 
+		<li>Bennett, D. P. et al. 2014, The Astrophysical Journal, 785, 155. <a href="http://adsabs.harvard.edu/abs/2014ApJ...785..155B">MOA-2011-BLG-262Lb: A Sub-Earth-Mass Moon Orbiting a Gas Giant Primary or a High Velocity Planetary System in the Galactic Bulge</a></li> 
+		<li>Bond, Howard E. 2014, The Astronomical Journal, 148, 44. <a href="http://adsabs.harvard.edu/abs/2014AJ....148...44B">Episodic Mass Loss from the Hydrogen-deficient Central Star of the Planetary Nebula Longmore 4</a></li> 
+		<li>Burke, David L. et al. 2014, The Astronomical Journal, 147, 19. <a href="http://adsabs.harvard.edu/abs/2014AJ....147...19B">All-Weather Calibration of Wide-Field Optical and NIR Surveys</a></li> 
+		<li>Davison, Cassy L. et al. 2014, The Astronomical Journal, 147, 26. <a href="http://adsabs.harvard.edu/abs/2014AJ....147...26D">The Closest M-dwarf Quadruple System to the Sun</a></li> 
+		<li>Degenaar, N. et al. 2014, The Astrophysical Journal, 784, 122. <a href="http://adsabs.harvard.edu/abs/2014ApJ...784..122D">Multi-wavelength Coverage of State Transitions in the New Black Hole X-Ray Binary Swift J1910.2-0546</a></li> 
+		<li>Drake, A. J. et al. 2014, Monthly Notices of the Royal Astronomical Society, 441, 1186. <a href="http://adsabs.harvard.edu/abs/2014MNRAS.441.1186D">Cataclysmic variables from the Catalina Real-time Transient Survey</a></li> 
+		<li>Duffau, Sonia et al. 2014, Astronomy and Astrophysics, 566, A118. <a href="http://adsabs.harvard.edu/abs/2014A&A...566A.118D">A comprehensive view of the Virgo stellar stream</a></li> 
+		<li>Fischer, T. C. et al. 2014, The Astrophysical Journal, 785, 25. <a href="http://adsabs.harvard.edu/abs/2014ApJ...785...25F">Determining Inclinations of Active Galactic Nuclei via Their Narrow-line Region Kinematics. II. Correlation with Observed Properties</a></li> 
+		<li>Gould, A. et al. 2014, Science, 345, 46. <a href="http://adsabs.harvard.edu/abs/2014Sci...345...46G">A terrestrial planet in a ~1-AU orbit around one member of a ∼15-AU binary</a></li> 
+		<li>Harrison, Thomas E. et al. 2014, The Astronomical Journal, 148, 22. <a href="http://adsabs.harvard.edu/abs/2014AJ....148...22H">Herschel Observations of Circinus X-1 during Outburst and Quiescence</a></li> 
+		<li>Holoien, Thomas W. -S. et al. 2014, The Astrophysical Journal, 785, L35. <a href="http://adsabs.harvard.edu/abs/2014ApJ...785L..35H">Discovery and Observations of ASASSN-13db, an EX Lupi-type Accretion Event on a Low-mass T Tauri Star</a></li> 
+		<li>Jao, Wei-Chun et al. 2014, The Astronomical Journal, 147, 21. <a href="http://adsabs.harvard.edu/abs/2014AJ....147...21J">The Solar Neighborhood. XXXI. Discovery of an Unusual Red+White Dwarf Binary at ~25 pc via Astrometry and UV Imaging</a></li> 
+		<li>Jeon, Young-Beom et al. 2014, The Astronomical Journal, 147, 155. <a href="http://adsabs.harvard.edu/abs/2014AJ....147..155J">B, V Photometry for ~19,000 Stars in and around the Magellanic Cloud Globular Clusters NGC 1466, NGC 1841, NGC 2210, NGC 2257, and Reticulum</a></li> 
+		<li>Jones, M. I. et al. 2014, Astronomy and Astrophysics, 566, A113. <a href="http://adsabs.harvard.edu/abs/2014A&A...566A.113J">The properties of planets around giant stars</a></li> 
+		<li>Koptelova, E. et al. 2014, Astronomy and Astrophysics, 566, A36. <a href="http://adsabs.harvard.edu/abs/2014A&A...566A..36K">New near-infrared observations and lens-model constraints for UM673</a></li> 
+		<li>Lee, Jae-Woo et al. 2014, The Astrophysical Journal Supplement Series, 210, 6. <a href="http://adsabs.harvard.edu/abs/2014ApJS..210....6L">Toward a Better Understanding of the Distance Scale from RR Lyrae Variable Stars: A Case Study for the Inner Halo Globular Cluster NGC 6723</a></li> 
+		<li>Liu, Chun-Fan et al. 2014, The Astrophysical Journal, 786, 99. <a href="http://adsabs.harvard.edu/abs/2014ApJ...786...99L">Velocity-resolved [Ne III] from X-Ray Irradiated Sz 102 Microjets</a></li> 
+		<li>Lurie, John C. et al. 2014, The Astronomical Journal, 148, 91. <a href="http://adsabs.harvard.edu/abs/2014AJ....148...91L">The Solar Neighborhood. XXXIV. a Search for Planets Orbiting Nearby M Dwarfs Using Astrometry</a></li> 
+		<li>MacDonald, Rachel K. D. et al. 2014, The Astrophysical Journal, 784, 2. <a href="http://adsabs.harvard.edu/abs/2014ApJ...784....2M">The Black Hole Binary V4641 Sagitarii: Activity in Quiescence and Improved Mass Determinations</a></li> 
+		<li>McCollum, Bruce et al. 2014, The Astronomical Journal, 147, 11. <a href="http://adsabs.harvard.edu/abs/2014AJ....147...11M">The Optical and Infrared Photometric Evolution of the Recent Stellar Merger, V1309 Sco</a></li> 
+		<li>Morgan, Adam N. et al. 2014, Monthly Notices of the Royal Astronomical Society, 440, 1810. <a href="http://adsabs.harvard.edu/abs/2014MNRAS.440.1810M">Evidence for dust destruction from the early-time colour change of GRB 120119A</a></li> 
+		<li>Morrell, Nidia I. et al. 2014, The Astrophysical Journal, 789, 139. <a href="http://adsabs.harvard.edu/abs/2014ApJ...789..139M">Photometric and Spectroscopic Studies of Massive Binaries in the Large Magellanic Cloud. II. Three O-type Systems in the 30 Dor Region</a></li> 
+		<li>Nagashima, M. et al. 2014, The Astrophysical Journal, 780, L26. <a href="http://adsabs.harvard.edu/abs/2014ApJ...780L..26N">The Transient Molecular Envelope in the Outflow of the Nova V2676 Oph during its Early Phase</a></li> 
+		<li>Orosz, Jerome A. et al. 2014, The Astrophysical Journal, 794, 154. <a href="http://adsabs.harvard.edu/abs/2014ApJ...794..154O">The Mass of the Black Hole in LMC X-3</a></li> 
+		<li>Pacciani, L. et al. 2014, The Astrophysical Journal, 790, 45. <a href="http://adsabs.harvard.edu/abs/2014ApJ...790...45P">Exploring the Blazar Zone in High-energy Flares of FSRQs</a></li> 
+		<li>Park, H. et al. 2014, The Astrophysical Journal, 787, 71. <a href="http://adsabs.harvard.edu/abs/2014ApJ...787...71P">OGLE-2012-BLG-0455/MOA-2012-BLG-206: Microlensing Event with Ambiguity in Planetary Interpretations Caused by Incomplete Coverage of Planetary Signal</a></li> 
+		<li>Rabinowitz, David L. et al. 2014, Icarus, 236, 72. <a href="http://adsabs.harvard.edu/abs/2014Icar..236...72R">The rotational light curve of (79360) Sila-Nunam, an eclipsing binary in the Kuiper Belt</a></li> 
+		<li>Riedel, Adric R. et al. 2014, The Astronomical Journal, 147, 85. <a href="http://adsabs.harvard.edu/abs/2014AJ....147...85R">The Solar Neighborhood. XXXIII. Parallax Results from the CTIOPI 0.9 m Program: Trigonometric Parallaxes of Nearby Low-mass Active and Young Systems</a></li> 
+		<li>Rodgers-Lee, Donna et al. 2014, Monthly Notices of the Royal Astronomical Society, 443, 1587. <a href="http://adsabs.harvard.edu/abs/2014MNRAS.443.1587R">The Herschel view of circumstellar discs: a multiwavelength study of Chamaeleon-I</a></li> 
+		<li>Shivvers, Isaac et al. 2014, Monthly Notices of the Royal Astronomical Society, 441, 343. <a href="http://adsabs.harvard.edu/abs/2014MNRAS.441..343S">The highly eccentric detached eclipsing binaries in ACVS and MACC</a></li> 
+		<li>Steiner, James F. et al. 2014, The Astrophysical Journal, 783, 101. <a href="http://adsabs.harvard.edu/abs/2014ApJ...783..101S">Modeling the Optical-X-Ray Accretion Lag in LMC X-3: Insights into Black-hole Accretion Physics</a></li> 
+		<li>Surina, F. et al. 2014, The Astronomical Journal, 147, 107. <a href="http://adsabs.harvard.edu/abs/2014AJ....147..107S">A Detailed Photometric and Spectroscopic Study of the 2011 Outburst of the Recurrent Nova T Pyxidis from 0.8 to 250 Days after Discovery</a></li> 
+		<li>Takáts, K. et al. 2014, Monthly Notices of the Royal Astronomical Society, 438, 368. <a href="http://adsabs.harvard.edu/abs/2014MNRAS.438..368T">SN 2009N: linking normal and subluminous Type II-P SNe</a></li> 
+		<li>Traulsen, I. et al. 2014, Astronomy and Astrophysics, 562, A42. <a href="http://adsabs.harvard.edu/abs/2014A&A...562A..42T">Phase-resolved X-ray spectroscopy and spectral energy distribution of the X-ray soft polar RS Caeli</a></li> 
+		<li>Tsapras, Y. et al. 2014, The Astrophysical Journal, 782, 48. <a href="http://adsabs.harvard.edu/abs/2014ApJ...782...48T">A Super-Jupiter Orbiting a Late-type Star: A Refined Analysis of Microlensing Event OGLE-2012-BLG-0406</a></li> 
+		<li>Williamson, Karen E. et al. 2014, The Astrophysical Journal, 789, 135. <a href="http://adsabs.harvard.edu/abs/2014ApJ...789..135W">Comprehensive Monitoring of Gamma-Ray Bright Blazars. I. Statistical Study of Optical, X-Ray, and Gamma-Ray Spectral Slopes</a></li> 
+		<li>Windemuth, Diana et al. 2014, The Astronomical Journal, 147, 9. <a href="http://adsabs.harvard.edu/abs/2014AJ....147....9W">Multi-wavelength Photometry of the T Tauri Binary V582 Mon (KH 15D): a New Epoch of Occultations</a></li> 
+		<li>Yee, J. C. et al. 2014, The Astrophysical Journal, 790, 14. <a href="http://adsabs.harvard.edu/abs/2014ApJ...790...14Y">MOA-2013-BLG-220Lb: Massive Planetary Companion to Galactic-disk Host</a></li> 
+	</ul> 
+</div>
+<h3>2013</h3> 
+<div> 
+	<ul> 
+		<li>Chatterjee, Ritaban et al. 2013, The Astrophysical Journal, 771, L25. <a href="http://adsabs.harvard.edu/abs/2013ApJ...771L..25C">Implications of the Anomalous Outburst in the Blazar PKS 0208-512</a></li> 
+		<li>Chatterjee, Ritaban et al. 2013, The Astrophysical Journal, 763, L11. <a href="http://adsabs.harvard.edu/abs/2013ApJ...763L..11C">An Optical-Near-infrared Outburst with no Accompanying γ-Rays in the Blazar PKS 0208-512</a></li> 
+		<li>Chun, Y. Y. et al. 2013, The Astrophysical Journal, 770, 10. <a href="http://adsabs.harvard.edu/abs/2013ApJ...770...10C">Multiwavelength Observations of the Black Hole Transient XTE J1752-223 during Its 2010 Outburst Decay</a></li> 
+		<li>Contreras Peña, C. et al. 2013, The Astronomical Journal, 146, 57. <a href="http://adsabs.harvard.edu/abs/2013AJ....146...57C">The Globular Cluster NGC 6402 (M14). I. A New BV Color-Magnitude Diagram</a></li> 
+		<li>Corbel, S. et al. 2013, Monthly Notices of the Royal Astronomical Society, 431, L107. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.431L.107C">Formation of the compact jets in the black hole GX 339-4</a></li> 
+		<li>Gahm, G. F. et al. 2013, Astronomy and Astrophysics, 560, A57. <a href="http://adsabs.harvard.edu/abs/2013A&A...560A..57G">Face to phase with RU Lupi</a></li> 
+		<li>Han, C. et al. 2013, The Astrophysical Journal, 778, 38. <a href="http://adsabs.harvard.edu/abs/2013ApJ...778...38H">Microlensing Discovery of a Tight, Low-mass-ratio Planetary-mass Object around an Old Field Brown Dwarf</a></li> 
+		<li>Hwang, K. -H. et al. 2013, The Astrophysical Journal, 778, 55. <a href="http://adsabs.harvard.edu/abs/2013ApJ...778...55H">Interpretation of a Short-term Anomaly in the Gravitational Microlensing Event MOA-2012-BLG-486</a></li> 
+		<li>Isler, Jedidah C. et al. 2013, The Astrophysical Journal, 779, 100. <a href="http://adsabs.harvard.edu/abs/2013ApJ...779..100I">A Time-resolved Study of the Broad-line Region in Blazar 3C 454.3</a></li> 
+		<li>Kalemci, E. et al. 2013, The Astrophysical Journal, 779, 95. <a href="http://adsabs.harvard.edu/abs/2013ApJ...779...95K">Complete Multiwavelength Evolution of Galactic Black Hole Transients during Outburst Decay. I. Conditions for "Compact" Jet Formation</a></li> 
+		<li>Kuehn, Charles A. et al. 2013, The Astronomical Journal, 145, 160. <a href="http://adsabs.harvard.edu/abs/2013AJ....145..160K">Variable Stars in Large Magellanic Cloud Globular Clusters. III. Reticulum</a></li> 
+		<li>Kushwaha, Pankaj et al. 2013, Monthly Notices of the Royal Astronomical Society, 433, 2380. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.433.2380K">High energy emission processes in OJ 287 during 2009 flare</a></li> 
+		<li>Maguire, K. et al. 2013, Monthly Notices of the Royal Astronomical Society, 436, 222. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.436..222M ">A statistical analysis of circumstellar material in Type Ia supernovae</a></li> 
+		<li>Mamajek, Eric E. et al. 2013, The Astronomical Journal, 146, 154. <a href="http://adsabs.harvard.edu/abs/2013AJ....146..154M">The Solar Neighborhood. XXX. Fomalhaut C</a></li> 
+		<li>Morii, M. et al. 2013, The Astrophysical Journal, 779, 118. <a href="http://adsabs.harvard.edu/abs/2013ApJ...779..118M">Extraordinary Luminous Soft X-Ray Transient MAXI J0158-744 as an Ignition of a Nova on a Very Massive O-Ne White Dwarf</a></li> 
+		<li>Park, H. et al. 2013, The Astrophysical Journal, 778, 134. <a href="http://adsabs.harvard.edu/abs/2013ApJ...778..134P">Gravitational Binary-lens Events with Prominent Effects of Lens Orbital Motion</a></li> 
+		<li>Pecaut, Mark J. et al. 2013, The Astrophysical Journal Supplement Series, 208, 9. <a href="http://adsabs.harvard.edu/abs/2013ApJS..208....9P">Intrinsic Colors, Temperatures, and Bolometric Corrections of Pre-main-sequence Stars</a></li> 
+		<li>Person, M. J. et al. 2013, The Astronomical Journal, 146, 83. <a href="http://adsabs.harvard.edu/abs/2013AJ....146...83P">The 2011 June 23 Stellar Occultation by Pluto: Airborne and Ground Observations</a></li> 
+		<li>Rabinowitz, David et al. 2013, The Astronomical Journal, 146, 17. <a href="http://adsabs.harvard.edu/abs/2013AJ....146...17R">The Peculiar Photometric Properties of 2010 WG9: A Slowly Rotating Trans-Neptunian Object from the Oort Cloud</a></li> 
+		<li>Ratajczak, M. et al. 2013, Monthly Notices of the Royal Astronomical Society, 433, 2357. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.433.2357R">Orbital and physical parameters of eclipsing binaries from the ASAS catalogue - V. Investigation of subgiants and giants: the case of ASAS J010538-8003.7, ASAS J182510-2435.5 and V1980 Sgr</a></li> 
+		<li>Shore, S. N. et al. 2013, Astronomy and Astrophysics, 553, A123. <a href="http://adsabs.harvard.edu/abs/2013A&A...553A.123S">The spectroscopic evolution of the γ-ray emitting classical nova Nova Mon 2012. I. Implications for the ONe subclass of classical novae</a></li> 
+		<li>Tavecchio, F. et al. 2013, Monthly Notices of the Royal Astronomical Society, 435, L24. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.435L..24T">The far emission region of the γ-ray blazar PKS B1424-418</a></li> 
+		<li>Tewes, M. et al. 2013, Astronomy and Astrophysics, 556, A22. <a href="http://adsabs.harvard.edu/abs/2013A&A...556A..22T">COSMOGRAIL: the COSmological MOnitoring of GRAvItational Lenses. XIII. Time delays and 9-yr optical monitoring of the lensed quasar RX J1131-1231</a></li> 
+		<li>Tokovinin, Andrei 2013, The Astronomical Journal, 145, 76. <a href="http://adsabs.harvard.edu/abs/2013AJ....145...76T">Kappa Fornaci, A Triple Radio Star</a></li> 
+		<li>Tokovinin, Andrei et al. 2013, Publications of the Astronomical Society of the Pacific, 125, 1336. <a href="http://adsabs.harvard.edu/abs/2013PASP..125.1336T">CHIRON - A Fiber Fed Spectrometer for Precise Radial Velocities</a></li> 
+		<li>Wolfe, Aaron et al. 2013, The Astronomical Journal, 145, 168. <a href="http://adsabs.harvard.edu/abs/2013AJ....145..168W">Far-ultraviolet Spectroscopy of the Nova-like Variable KQ Monocerotis: A New SW Sextantis Star?</a></li> 
+		<li>Yee, J. C. et al. 2013, The Astrophysical Journal, 769, 77. <a href="http://adsabs.harvard.edu/abs/2013ApJ...769...77Y">MOA-2010-BLG-311: A Planetary Candidate below the Threshold of Reliable Detection</a></li> 
+		<li>de la Fuente Marcos, R. et al. 2013, Monthly Notices of the Royal Astronomical Society, 434, 194. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.434..194D">NGC 1252: a high altitude, metal poor open cluster remnant</a></li> 
+		<li>van der Horst, A. J. et al. 2013, Monthly Notices of the Royal Astronomical Society, 436, 2625. <a href="http://adsabs.harvard.edu/abs/2013MNRAS.436.2625V">Broad-band monitoring tracing the evolution of the jet and disc in the black hole candidate X-ray binary MAXI J1659-152</a></li> 
+	</ul> 
+</div>
+<h3>2012</h3> 
+<div> 
+	<ul> 
+		<li>Ackermann, M. et al. 2012, The Astrophysical Journal, 751, 159. <a href="http://adsabs.harvard.edu/abs/2012ApJ...751..159A">Multi-wavelength Observations of Blazar AO 0235+164 in the 2008-2009 Flaring State</a></li> 
+		<li>Alencar, S. H. P. et al. 2012, Astronomy and Astrophysics, 541, A116. <a href="http://adsabs.harvard.edu/abs/2012A&A...541A.116A">Accretion dynamics in the classical T Tauri star V2129 Ophiuchi</a></li> 
+		<li>Ashcraft, T. A. et al. 2012, Monthly Notices of the Royal Astronomical Society, 424, 620. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.424..620A">Optical and infrared light curves of the eclipsing X-ray binary V395 Car = 2S 0921-630</a></li> 
+		<li>Bachelet, E. et al. 2012, The Astrophysical Journal, 754, 73. <a href="http://adsabs.harvard.edu/abs/2012ApJ...754...73B">MOA 2010-BLG-477Lb: Constraining the Mass of a Microlensing Planet from Microlensing Parallax, Orbital Motion, and Detection of Blended Light</a></li> 
+		<li>Bond, Howard E. et al. 2012, Publications of the Astronomical Society of the Pacific, 124, 1262. <a href="http://adsabs.harvard.edu/abs/2012PASP..124.1262B">NSV 11749: Symbiotic Nova, Not a Born-Again Red Giant</a></li> 
+		<li>Bonning, Erin et al. 2012, The Astrophysical Journal, 756, 13. <a href="http://adsabs.harvard.edu/abs/2012ApJ...756...13B">SMARTS Optical and Infrared Monitoring of 12 Gamma-Ray Bright Blazars</a></li> 
+		<li>Bozza, V. et al. 2012, Monthly Notices of the Royal Astronomical Society, 424, 902. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.424..902B">OGLE-2008-BLG-510: first automated real-time detection of a weak microlensing anomaly - brown dwarf or stellar binary?</a></li> 
+		<li>Buxton, Michelle M. et al. 2012, The Astronomical Journal, 143, 130. <a href="http://adsabs.harvard.edu/abs/2012AJ....143..130B">Optical and Near-infrared Monitoring of the Black Hole X-Ray Binary GX 339-4 during 2002-2010</a></li> 
+		<li>Capelo, Holly L. et al. 2012, The Astrophysical Journal, 757, L18. <a href="http://adsabs.harvard.edu/abs/2012ApJ...757L..18C">Locating the Trailing Edge of the Circumbinary Ring in the KH 15D System</a></li> 
+		<li>Carraro, Giovanni et al. 2012, Monthly Notices of the Royal Astronomical Society, 419, 3608. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.3608C">UBVI CCD photometry and star counts in nine inner disc Galactic star clusters</a></li> 
+		<li>Chartas, G. et al. 2012, The Astrophysical Journal, 757, 137. <a href="http://adsabs.harvard.edu/abs/2012ApJ...757..137C">Revealing the Structure of an Accretion Disk through Energy-dependent X-Ray Microlensing</a></li> 
+		<li>Chatterjee, Ritaban et al. 2012, The Astrophysical Journal, 749, 191. <a href="http://adsabs.harvard.edu/abs/2012ApJ...749..191C">Similarity of the Optical-Infrared and γ-Ray Time Variability of Fermi Blazars</a></li> 
+		<li>Choi, J. -Y. et al. 2012, The Astrophysical Journal, 751, 41. <a href="http://adsabs.harvard.edu/abs/2012ApJ...751...41C">Characterizing Lenses and Lensed Stars of High-magnification Single-lens Gravitational Microlensing Events with Lenses Passing over Source Stars</a></li> 
+		<li>Choi, J. -Y. et al. 2012, The Astrophysical Journal, 756, 48. <a href="http://adsabs.harvard.edu/abs/2012ApJ...756...48C">A New Type of Ambiguity in the Planet and Binary Interpretations of Central Perturbations of High-magnification Gravitational Microlensing Events</a></li> 
+		<li>Cobb, Bethany Elisa 2012, Death of Massive Stars: Supernovae and Gamma-Ray Bursts, 279, 83. <a href="http://adsabs.harvard.edu/abs/2012IAUS..279...83C">Recent Observations of GRB-Supernovae</a></li> 
+		<li>Dinçer, Tolga et al. 2012, The Astrophysical Journal, 753, 55. <a href="http://adsabs.harvard.edu/abs/2012ApJ...753...55D">X-Ray, Optical, and Infrared Observations of GX 339-4 during Its 2011 Decay</a></li> 
+		<li>Emmanoulopoulos, D. et al. 2012, Monthly Notices of the Royal Astronomical Society, 424, 1327. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.424.1327E">The 'harder when brighter' X-ray behaviour of the low-luminosity active galactic nucleus NGC 7213</a></li> 
+		<li>Evans, A. et al. 2012, Monthly Notices of the Royal Astronomical Society, 424, L69. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.424L..69E">Infrared observations of the recurrent nova T Pyxidis: ancient dust basks in the warm glow of the 2011 outburst<SUP>★</SUP></a></li> 
+		<li>Faherty, Jacqueline K. et al. 2012, The Astrophysical Journal, 752, 56. <a href="http://adsabs.harvard.edu/abs/2012ApJ...752...56F">The Brown Dwarf Kinematics Project (BDKP). III. Parallaxes for 70 Ultracool Dwarfs</a></li> 
+		<li>Gaur, Haritma et al. 2012, The Astronomical Journal, 143, 23. <a href="http://adsabs.harvard.edu/abs/2012AJ....143...23G">Multiwavelength Variability of the Blazars Mrk 421 and 3C 454.3 in the High State</a></li> 
+		<li>Grundy, W. M. et al. 2012, Icarus, 220, 74. <a href="http://adsabs.harvard.edu/abs/2012Icar..220...74G">Mutual events in the Cold Classical transneptunian binary system Sila and Nunam</a></li> 
+		<li>Gómez Maqueo Chew, Yilen et al. 2012, The Astrophysical Journal, 745, 58. <a href="http://adsabs.harvard.edu/abs/2012ApJ...745...58G">Luminosity Discrepancy in the Equal-mass, Pre-main-sequence Eclipsing Binary Par 1802: Non-coevality or Tidal Heating?</a></li> 
+		<li>Henderson, Calen B. et al. 2012, The Astrophysical Journal, 747, 51. <a href="http://adsabs.harvard.edu/abs/2012ApJ...747...51H">Time-series Photometry of Stars in and around the Lagoon Nebula. I. Rotation Periods of 290 Low-mass Pre-main-sequence Stars in NGC 6530</a></li> 
+		<li>Henrichs, H. F. et al. 2012, Astronomy and Astrophysics, 545, A119. <a href="http://adsabs.harvard.edu/abs/2012A&A...545A.119H">Discovery of a magnetic field in the early B-type star σ Lupi</a></li> 
+		<li>Holland, Stephen T. et al. 2012, The Astrophysical Journal, 745, 41. <a href="http://adsabs.harvard.edu/abs/2012ApJ...745...41H">GRB 081029: A Gamma-Ray Burst with a Multi-component Afterglow</a></li> 
+		<li>Hoyer, S. et al. 2012, The Astrophysical Journal, 748, 22. <a href="http://adsabs.harvard.edu/abs/2012ApJ...748...22H">Transit Monitoring in the South (TraMoS) Project: Discarding Transit Timing Variations in WASP-5b</a></li> 
+		<li>Hoyer, S. et al. 2012, The Astrophysical Journal, 748, 22. <a href="http://adsabs.harvard.edu/abs/2012ApJ...748...22H ">Transit Monitoring in the South (TraMoS) Project: Discarding Transit Timing Variations in WASP-5b</a></li> 
+		<li>Huchra, John P. et al. 2012, The Astrophysical Journal Supplement Series, 199, 26. <a href="http://adsabs.harvard.edu/abs/2012ApJS..199...26H">The 2MASS Redshift Survey—Description and Data Release</a></li> 
+		<li>Hui, C. Y. et al. 2012, The Astrophysical Journal, 750, 7. <a href="http://adsabs.harvard.edu/abs/2012ApJ...750....7H">Identification Campaign of Supernova Remnant Candidates in the Milky Way. I. Chandra Observation of G308.3-1.4</a></li> 
+		<li>Koptelova, E. et al. 2012, Astronomy and Astrophysics, 544, A51. <a href="http://adsabs.harvard.edu/abs/2012A&A...544A..51K">Time delay between images of the lensed quasar <ASTROBJ>UM673</ASTROBJ></a></li> 
+		<li>Kreidberg, Laura et al. 2012, The Astrophysical Journal, 757, 36. <a href="http://adsabs.harvard.edu/abs/2012ApJ...757...36K">Mass Measurements of Black Holes in X-Ray Transients: Is There a Mass Gap?</a></li> 
+		<li>Kuehn, Charles A. et al. 2012, The Astronomical Journal, 144, 186. <a href="http://adsabs.harvard.edu/abs/2012AJ....144..186K">Variable Stars in Large Magellanic Cloud Globular Clusters. II. NGC 1786</a></li> 
+		<li>Mamajek, Eric E. et al. 2012, The Astronomical Journal, 143, 72. <a href="http://adsabs.harvard.edu/abs/2012AJ....143...72M">Planetary Construction Zones in Occultation: Discovery of an Extrasolar Ring System Transiting a Young Sun-like Star and Future Prospects for Detecting Eclipses by Circumsecondary and Circumplanetary Disks</a></li> 
+		<li>Massey, Philip et al. 2012, The Astrophysical Journal, 748, 96. <a href="http://adsabs.harvard.edu/abs/2012ApJ...748...96M">Photometric and Spectroscopic Studies of Massive Binaries in the Large Magellanic Cloud. I. Introduction and Orbits for Two Detached Systems: Evidence for a Mass Discrepancy?</a></li> 
+		<li>Mateu, C. et al. 2012, Monthly Notices of the Royal Astronomical Society, 427, 3374. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.427.3374M">The QUEST RR Lyrae Survey - III. The low Galactic latitude catalogue</a></li> 
+		<li>Maxwell, M. P. et al. 2012, Monthly Notices of the Royal Astronomical Society, 419, 1465. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.1465M">The helium abundance in the ejecta of U Scorpii</a></li> 
+		<li>Mehner, Andrea et al. 2012, The Astrophysical Journal, 751, 73. <a href="http://adsabs.harvard.edu/abs/2012ApJ...751...73M">Secular Changes in Eta Carinae's Wind 1998-2011</a></li> 
+		<li>Miller, A. A. et al. 2012, The Astrophysical Journal, 755, 98. <a href="http://adsabs.harvard.edu/abs/2012ApJ...755...98M">Discovery of Bright Galactic R Coronae Borealis and DY Persei Variables: Rare Gems Mined from ACVS</a></li> 
+		<li>Miyake, N. et al. 2012, The Astrophysical Journal, 752, 82. <a href="http://adsabs.harvard.edu/abs/2012ApJ...752...82M">A Possible Binary System of a Stellar Remnant in the High-magnification Gravitational Microlensing Event OGLE-2007-BLG-514</a></li> 
+		<li>Morgan, Christopher W. et al. 2012, The Astrophysical Journal, 756, 52. <a href="http://adsabs.harvard.edu/abs/2012ApJ...756...52M">Further Evidence that Quasar X-Ray Emitting Regions are Compact: X-Ray and Optical Microlensing in the Lensed Quasar Q J0158-4325</a></li> 
+		<li>Nalewajko, Krzysztof et al. 2012, The Astrophysical Journal, 760, 69. <a href="http://adsabs.harvard.edu/abs/2012ApJ...760...69N">Herschel PACS and SPIRE Observations of Blazar PKS 1510-089: A Case for Two Blazar Zones</a></li> 
+		<li>Pecaut, Mark J. et al. 2012, The Astrophysical Journal, 746, 154. <a href="http://adsabs.harvard.edu/abs/2012ApJ...746..154P">A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association</a></li> 
+		<li>Platais, I. et al. 2012, The Astrophysical Journal, 751, L8. <a href="http://adsabs.harvard.edu/abs/2012ApJ...751L...8P">The Effects of Differential Reddening and Stellar Rotation on the Appearance of Multiple Populations in Star Clusters: The Case of Trumpler 20</a></li> 
+		<li>Prieto, G. et al. 2012, Astronomy and Astrophysics, 543, A148. <a href="http://adsabs.harvard.edu/abs/2012A&A...543A.148P">Variable stars in the globular cluster M 28 (NGC 6626)</a></li> 
+		<li>Provencal, J. L. et al. 2012, The Astrophysical Journal, 751, 91. <a href="http://adsabs.harvard.edu/abs/2012ApJ...751...91P">Empirical Determination of Convection Parameters in White Dwarfs. I. Whole Earth Telescope Observations of EC14012-1446</a></li> 
+		<li>Ramos Almeida, C. et al. 2012, Monthly Notices of the Royal Astronomical Society, 419, 687. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.419..687R">Are luminous radio-loud active galactic nuclei triggered by galaxy interactions?</a></li> 
+		<li>Rodríguez-Gil, P. et al. 2012, Monthly Notices of the Royal Astronomical Society, 422, 2332. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.422.2332R">The fight for accretion: discovery of intermittent mass transfer in BB Doradus in the low state</a></li> 
+		<li>Rossi, A. et al. 2012, Astronomy and Astrophysics, 545, A77. <a href="http://adsabs.harvard.edu/abs/2012A&A...545A..77R">A deep search for the host galaxies of gamma-ray bursts with no detected optical afterglow</a></li> 
+		<li>Scalzo, R. et al. 2012, The Astrophysical Journal, 757, 12. <a href="http://adsabs.harvard.edu/abs/2012ApJ...757...12S">A Search for New Candidate Super-Chandrasekhar-mass Type Ia Supernovae in the Nearby Supernova Factory Data Set</a></li> 
+		<li>Schlieder, Joshua E. et al. 2012, The Astronomical Journal, 143, 114. <a href="http://adsabs.harvard.edu/abs/2012AJ....143..114S">The Na 8200 Å Doublet as an Age Indicator in Low-mass Stars</a></li> 
+		<li>Shin, I. -G. et al. 2012, The Astrophysical Journal, 760, 116. <a href="http://adsabs.harvard.edu/abs/2012ApJ...760..116S">Microlensing Binaries with Candidate Brown Dwarf Companions</a></li> 
+		<li>Trepl, L. et al. 2012, Monthly Notices of the Royal Astronomical Society, 427, 1014. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.427.1014T">Is there a compact companion orbiting the late O-type binary star HD 164816?</a></li> 
+		<li>Usher, Christopher et al. 2012, Monthly Notices of the Royal Astronomical Society, 426, 1475. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.426.1475U">The SLUGGS survey: calcium triplet-based spectroscopic metallicities for over 900 globular clusters</a></li> 
+		<li>Van Dyk, Schuyler D. et al. 2012, The Astronomical Journal, 143, 19. <a href="http://adsabs.harvard.edu/abs/2012AJ....143...19V">Supernova 2008bk and Its Red Supergiant Progenitor</a></li> 
+		<li>Walter, Frederick M. et al. 2012, Publications of the Astronomical Society of the Pacific, 124, 1057. <a href="http://adsabs.harvard.edu/abs/2012PASP..124.1057W">The Stony Brook/SMARTS Atlas of (mostly) Southern Novae</a></li> 
+		<li>Wehrle, Ann E. et al. 2012, The Astrophysical Journal, 758, 72. <a href="http://adsabs.harvard.edu/abs/2012ApJ...758...72W">Multiwavelength Variations of 3C 454.3 during the 2010 November to 2011 January Outburst</a></li> 
+		<li>Yan, Zhen et al. 2012, Monthly Notices of the Royal Astronomical Society, 427, L11. <a href="http://adsabs.harvard.edu/abs/2012MNRAS.427L..11Y">An ultraviolet flux drop preceding the X-ray hard-to-soft state transition during the 2010 outburst of GX 339-4</a></li> 
+		<li>Yee, J. C. et al. 2012, The Astrophysical Journal, 755, 102. <a href="http://adsabs.harvard.edu/abs/2012ApJ...755..102Y">MOA-2011-BLG-293Lb: A Test of Pure Survey Microlensing Planet Detections</a></li> 
+	</ul> 
+</div>
+<h3>2011</h3> 
+<div> 
+	<ul> 
+		<li>Agudo, Iván et al. 2011, The Astrophysical Journal, 726, L13. <a href="http://adsabs.harvard.edu/abs/2011ApJ...726L..13A">Location of γ-ray Flare Emission in the Jet of the BL Lacertae Object OJ287 More than 14 pc from the Central Engine</a></li> 
+		<li>Ahumada, J. A. et al. 2011, Monthly Notices of the Royal Astronomical Society, 415, 1355. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.415.1355A">Early-type stars in the open cluster NGC 4852</a></li> 
+		<li>Andrews, J. E. et al. 2011, The Astrophysical Journal, 731, 47. <a href="http://adsabs.harvard.edu/abs/2011ApJ...731...47A">Photometric and Spectroscopic Evolution of the IIP SN 2007it to Day 944</a></li> 
+		<li>Argiroffi, C. et al. 2011, Astronomy and Astrophysics, 530, A1. <a href="http://adsabs.harvard.edu/abs/2011A&A...530A...1A">Variable X-ray emission from the accretion shock in the classical T Tauri star V2129 Ophiuchi</a></li> 
+		<li>Bastien, Fabienne A. et al. 2011, The Astronomical Journal, 142, 141. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..141B">High-cadence Time-series Photometry of V1647 Orionis</a></li> 
+		<li>Batista, V. et al. 2011, Astronomy and Astrophysics, 529, A102. <a href="http://adsabs.harvard.edu/abs/2011A&A...529A.102B">MOA-2009-BLG-387Lb: a massive planet orbiting an M dwarf</a></li> 
+		<li>Baume, G. et al. 2011, Astronomy and Astrophysics, 531, A73. <a href="http://adsabs.harvard.edu/abs/2011A&A...531A..73B">The Ara OB1a association. Stellar population and star formation history</a></li> 
+		<li>Benedict, G. Fritz et al. 2011, The Astronomical Journal, 142, 187. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..187B">Distance Scale Zero Points from Galactic RR Lyrae Star Parallaxes</a></li> 
+		<li>Bensby, T. et al. 2011, Astronomy and Astrophysics, 533, A134. <a href="http://adsabs.harvard.edu/abs/2011A&A...533A.134B">Chemical evolution of the Galactic bulge as traced by microlensed dwarf and subgiant stars. IV. Two bulge populations</a></li> 
+		<li>Binder, B. et al. 2011, The Astrophysical Journal, 739, L51. <a href="http://adsabs.harvard.edu/abs/2011ApJ...739L..51B">Chandra Detection of SN 2010da Four Months After Outburst: Evidence for a High-mass X-Ray Binary in NGC 300</a></li> 
+		<li>Bubar, Eric J. et al. 2011, The Astronomical Journal, 141, 140. <a href="http://adsabs.harvard.edu/abs/2011AJ....141..140B">V474 Car: A Rare Halo RS CVn Binary in Retrograde Galactic Orbit</a></li> 
+		<li>Buie, Marc W. et al. 2011, The Astrophysical Journal Supplement Series, 194, 40. <a href="http://adsabs.harvard.edu/abs/2011ApJS..194...40B">A Large and Faint Photometric Catalog on the Ecliptic</a></li> 
+		<li>Cadolle Bel, M. et al. 2011, Astronomy and Astrophysics, 534, A119. <a href="http://adsabs.harvard.edu/abs/2011A&A...534A.119C">Overview of an extensive multi-wavelength study of GX 339-4 during the 2010 outburst</a></li> 
+		<li>Carlson, Lynn Redding et al. 2011, The Astrophysical Journal, 730, 78. <a href="http://adsabs.harvard.edu/abs/2011ApJ...730...78C">A Panchromatic View of NGC 602: Time-resolved Star Formation with the Hubble and Spitzer Space Telescopes</a></li> 
+		<li>Carraro, Giovanni et al. 2011, The Astronomical Journal, 142, 127. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..127C">A UBVI and uvbyCaHβ Analysis of the Intermediate-age Open Cluster, NGC 5822</a></li> 
+		<li>Cenko, S. B. et al. 2011, The Astrophysical Journal, 732, 29. <a href="http://adsabs.harvard.edu/abs/2011ApJ...732...29C">Afterglow Observations of Fermi Large Area Telescope Gamma-ray Bursts and the Emerging Class of Hyper-energetic Events</a></li> 
+		<li>Chen, Bin et al. 2011, The Astrophysical Journal, 740, L34. <a href="http://adsabs.harvard.edu/abs/2011ApJ...740L..34C">Discovery of Energy-dependent X-Ray Microlensing in Q2237+0305</a></li> 
+		<li>Clocchiatti, Alejandro et al. 2011, The Astronomical Journal, 141, 163. <a href="http://adsabs.harvard.edu/abs/2011AJ....141..163C">The Ultimate Light Curve of SN 1998bw/GRB 980425</a></li> 
+		<li>Courbin, F. et al. 2011, Astronomy and Astrophysics, 536, A53. <a href="http://adsabs.harvard.edu/abs/2011A&A...536A..53C">COSMOGRAIL: the COSmological MOnitoring of GRAvItational Lenses. IX. Time delays, lens dynamics and baryonic fraction in HE 0435-1223</a></li> 
+		<li>Donati, J. -F. et al. 2011, Monthly Notices of the Royal Astronomical Society, 412, 2454. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.412.2454D">Non-stationary dynamo and magnetospheric accretion processes of the classical T Tauri star V2129 Oph</a></li> 
+		<li>Donnarumma, I. et al. 2011, The Astrophysical Journal, 736, L30. <a href="http://adsabs.harvard.edu/abs/2011ApJ...736L..30D">The Remarkable γ-Ray Activity in the Gravitationally Lensed Blazar PKS 1830-211</a></li> 
+		<li>Eisenstein, Daniel J. et al. 2011, The Astronomical Journal, 142, 72. <a href="http://adsabs.harvard.edu/abs/2011AJ....142...72E">SDSS-III: Massive Spectroscopic Surveys of the Distant Universe, the Milky Way, and Extra-Solar Planetary Systems</a></li> 
+		<li>Elias-Rosa, Nancy et al. 2011, The Astrophysical Journal, 742, 6. <a href="http://adsabs.harvard.edu/abs/2011ApJ...742....6E">The Massive Progenitor of the Possible Type II-Linear Supernova 2009hd in Messier 66</a></li> 
+		<li>Eulaers, E. et al. 2011, Astronomy and Astrophysics, 536, A44. <a href="http://adsabs.harvard.edu/abs/2011A&A...536A..44E">Time delays for eleven gravitationally lensed quasars revisited</a></li> 
+		<li>Evans, C. J. et al. 2011, Astronomy and Astrophysics, 530, A108. <a href="http://adsabs.harvard.edu/abs/2011A&A...530A.108E">The VLT-FLAMES Tarantula Survey. I. Introduction and observational overview</a></li> 
+		<li>Faherty, Jacqueline et al. 2011, American Astronomical Society Meeting Abstracts #217, 217, 226.05. <a href="http://adsabs.harvard.edu/abs/2011AAS...21722605F">The Brown Dwarf Kinematics Project (BDKP): How Distances Both Advance and Complicate Our Understanding of the Brown Dwarf Population</a></li> 
+		<li>Fleming, Scott W. et al. 2011, The Astronomical Journal, 142, 50. <a href="http://adsabs.harvard.edu/abs/2011AJ....142...50F">Eclipsing Binary Science via the Merging of Transit and Doppler Exoplanet Survey Data—A Case Study with the MARVELS Pilot Project and SuperWASP</a></li> 
+		<li>French, Linda M. et al. 2011, Minor Planet Bulletin, 38, 116. <a href="http://adsabs.harvard.edu/abs/2011MPBu...38..116F">Preliminary Results from a Study of Trojan Asteroids</a></li> 
+		<li>French, Linda M. et al. 2011, Minor Planet Bulletin, 38, 2. <a href="http://adsabs.harvard.edu/abs/2011MPBu...38....2F">The Lightcurve of Jovian Trojan Asteroid 884 Priamus</a></li> 
+		<li>Froning, Cynthia S. et al. 2011, The Astrophysical Journal, 743, 26. <a href="http://adsabs.harvard.edu/abs/2011ApJ...743...26F">Multiwavelength Observations of A0620-00 in Quiescence</a></li> 
+		<li>Hebb, L. et al. 2011, Astronomy and Astrophysics, 531, A61. <a href="http://adsabs.harvard.edu/abs/2011A&A...531A..61H">Precise orbit solution of MML 53, a low-mass, pre-main sequence eclipsing binary in Upper Centaurus Lupus</a></li> 
+		<li>Helton, L. Andrew 2011, Publications of the Astronomical Society of the Pacific, 123, 645. <a href="http://adsabs.harvard.edu/abs/2011PASP..123..645H">Photometric and Spectroscopic Analysis of Classical Novae: An Analysis of Their Observational Properties and Greater Astronomical Impact</a></li> 
+		<li>Herald, J. E. et al. 2011, Monthly Notices of the Royal Astronomical Society, 417, 2440. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.417.2440H">The winds of hydrogen-rich central stars of planetary nebulae</a></li> 
+		<li>Hourihane, A. P. et al. 2011, Monthly Notices of the Royal Astronomical Society, 414, 184. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.414..184H">Ground- and space-based study of two globular cluster cataclysmic variables: M22 CV1 and M5 V101</a></li> 
+		<li>Humphreys, Roberta M. et al. 2011, The Astrophysical Journal, 743, 118. <a href="http://adsabs.harvard.edu/abs/2011ApJ...743..118H">The Photometric and Spectral Evolution of the 2008 Luminous Optical Transient in NGC 300</a></li> 
+		<li>Ingleby, Laura et al. 2011, The Astrophysical Journal, 743, 105. <a href="http://adsabs.harvard.edu/abs/2011ApJ...743..105I">Near-ultraviolet Excess in Slowly Accreting T Tauri Stars: Limits Imposed by Chromospheric Emission</a></li> 
+		<li>Jao, Wei-Chun et al. 2011, The Astronomical Journal, 141, 117. <a href="http://adsabs.harvard.edu/abs/2011AJ....141..117J">The Solar Neighborhood. XXIV. Parallax Results from the CTIOPI 0.9 m Program: Stars with μ 〉= 1farcs0 yr<SUP>-1</SUP> (MOTION Sample) and Subdwarfs</a></li> 
+		<li>Kann, D. A. et al. 2011, The Astrophysical Journal, 734, 96. <a href="http://adsabs.harvard.edu/abs/2011ApJ...734...96K">The Afterglows of Swift-era Gamma-Ray Bursts. II. Type I GRB versus Type II GRB Optical Afterglows</a></li> 
+		<li>Kuehn, Charles A. et al. 2011, The Astronomical Journal, 142, 107. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..107K">Variable Stars in Large Magellanic Cloud Globular Clusters. I. NGC 1466</a></li> 
+		<li>Larsen, Jeffrey A. et al. 2011, The Astronomical Journal, 141, 130. <a href="http://adsabs.harvard.edu/abs/2011AJ....141..130L">Mapping the Asymmetric Thick Disk. II. Distance, Size, and Mass of the Hercules Thick Disk Cloud</a></li> 
+		<li>Lebzelter, T. et al. 2011, Astronomy and Astrophysics, 529, A137. <a href="http://adsabs.harvard.edu/abs/2011A&A...529A.137L">Long period variables and mass loss in the globular clusters NGC 362 and NGC 2808</a></li> 
+		<li>Lee, Brian L. et al. 2011, The Astrophysical Journal, 728, 32. <a href="http://adsabs.harvard.edu/abs/2011ApJ...728...32L">MARVELS-1b: A Short-period, Brown Dwarf Desert Candidate from the SDSS-III Marvels Planet Search</a></li> 
+		<li>Lira, P. et al. 2011, Monthly Notices of the Royal Astronomical Society, 415, 1290. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.415.1290L">Optical and near-IR long-term monitoring of NGC 3783 and MR 2251-178: evidence for variable near-IR emission from thin accretion discs</a></li> 
+		<li>Miyake, N. et al. 2011, The Astrophysical Journal, 728, 120. <a href="http://adsabs.harvard.edu/abs/2011ApJ...728..120M">A Sub-Saturn Mass Planet, MOA-2009-BLG-319Lb</a></li> 
+		<li>Mosquera, A. M. et al. 2011, The Astrophysical Journal, 728, 145. <a href="http://adsabs.harvard.edu/abs/2011ApJ...728..145M">A Study of Gravitational Lens Chromaticity Using Ground-based Narrowband Photometry</a></li> 
+		<li>Muraki, Y. et al. 2011, The Astrophysical Journal, 741, 22. <a href="http://adsabs.harvard.edu/abs/2011ApJ...741...22M">Discovery and Mass Measurements of a Cold, 10 Earth Mass Planet and Its Host Star</a></li> 
+		<li>Napoli, Vanessa J. et al. 2011, Publications of the Astronomical Society of the Pacific, 123, 1262. <a href="http://adsabs.harvard.edu/abs/2011PASP..123.1262N">The Distance of the γ-Ray Binary 1FGL J1018.6-5856</a></li> 
+		<li>O'Dell, C. R. et al. 2011, The Astrophysical Journal, 733, 9. <a href="http://adsabs.harvard.edu/abs/2011ApJ...733....9O">Physical Conditions in Barnard's Loop, Components of the Orion-eridanus Bubble, and Implications for the Warm Ionized Medium Component of the Interstellar Medium</a></li> 
+		<li>Palma, N. I. et al. 2011, The Astrophysical Journal, 735, 60. <a href="http://adsabs.harvard.edu/abs/2011ApJ...735...60P">Multiwavelength Observations of the Gamma-Ray Blazar PKS 0528+134 in Quiescence</a></li> 
+		<li>Piatti, Andrés E. et al. 2011, Publications of the Astronomical Society of the Pacific, 123, 519. <a href="http://adsabs.harvard.edu/abs/2011PASP..123..519P">First Estimates of the Fundamental Parameters of Three Large Magellanic Cloud Clusters</a></li> 
+		<li>Rabinowitz, David et al. 2011, The Astrophysical Journal, 732, 51. <a href="http://adsabs.harvard.edu/abs/2011ApJ...732...51R">Discovery and Characterization of an Extremely Deep-eclipsing Cataclysmic Variable: LSQ172554.8-643839</a></li> 
+		<li>Rani, Bindu et al. 2011, Monthly Notices of the Royal Astronomical Society, 417, 1881. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.417.1881R">Spectral energy distribution variation in BL Lacs and flat spectrum radio quasars</a></li> 
+		<li>Rawls, Meredith L. et al. 2011, The Astrophysical Journal, 730, 25. <a href="http://adsabs.harvard.edu/abs/2011ApJ...730...25R">Refined Neutron Star Mass Determinations for Six Eclipsing X-Ray Pulsar Binaries</a></li> 
+		<li>Richardson, N. D. et al. 2011, The Astronomical Journal, 142, 201. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..201R">A Binary Orbit for the Massive, Evolved Star HDE 326823, a WR+O System Progenitor</a></li> 
+		<li>Riedel, Adric R. et al. 2011, The Astronomical Journal, 142, 104. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..104R">The Solar Neighborhood. XXVI. AP Col: The Closest (8.4 pc) Pre-main-sequence Star</a></li> 
+		<li>Rubin, Robert H. et al. 2011, Monthly Notices of the Royal Astronomical Society, 410, 1320. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.410.1320R">Spitzer reveals what is behind Orion's Bar</a></li> 
+		<li>Rutkowski, A. et al. 2011, Acta Astronomica, 61, 345. <a href="http://adsabs.harvard.edu/abs/2011AcA....61..345R">Dwarf Nova V1040 Centauri and Variable Stars in its Vicinity</a></li> 
+		<li>Schaefer, Bradley E. et al. 2011, The Astrophysical Journal, 742, 113. <a href="http://adsabs.harvard.edu/abs/2011ApJ...742..113S">Eclipses during the 2010 Eruption of the Recurrent Nova U Scorpii</a></li> 
+		<li>Schwarz, Greg J. et al. 2011, The Astrophysical Journal Supplement Series, 197, 31. <a href="http://adsabs.harvard.edu/abs/2011ApJS..197...31S">Swift X-Ray Observations of Classical Novae. II. The Super Soft Source Sample</a></li> 
+		<li>Shih, I. C. et al. 2011, Monthly Notices of the Royal Astronomical Society, 412, 120. <a href="http://adsabs.harvard.edu/abs/2011MNRAS.412..120S">Correlated optical/X-ray long-term variability in LMXB 4U 1636-536</a></li> 
+		<li>Shin, I. -G. et al. 2011, The Astrophysical Journal, 735, 85. <a href="http://adsabs.harvard.edu/abs/2011ApJ...735...85S">OGLE-2005-BLG-018: Characterization of Full Physical and Orbital Parameters of a Gravitational Binary Lens</a></li> 
+		<li>Skemer, Andrew J. et al. 2011, The Astrophysical Journal, 732, 107. <a href="http://adsabs.harvard.edu/abs/2011ApJ...732..107S">Evidence Against an Edge-on Disk Around the Extrasolar Planet, 2MASS 1207 b and a New Thick-cloud Explanation for Its Underluminosity</a></li> 
+		<li>Skowron, J. et al. 2011, The Astrophysical Journal, 738, 87. <a href="http://adsabs.harvard.edu/abs/2011ApJ...738...87S">Binary Microlensing Event OGLE-2009-BLG-020 Gives Verifiable Mass, Distance, and Orbit Predictions</a></li> 
+		<li>Stephens, Robert D. et al. 2011, Minor Planet Bulletin, 38, 1. <a href="http://adsabs.harvard.edu/abs/2011MPBu...38....1S">878 Mildred Revealed</a></li> 
+		<li>Tokovinin, Andrei 2011, The Astronomical Journal, 141, 52. <a href="http://adsabs.harvard.edu/abs/2011AJ....141...52T">Low-mass Visual Companions to Nearby G-dwarfs</a></li> 
+		<li>Traulsen, I. et al. 2011, Astronomy and Astrophysics, 529, A116. <a href="http://adsabs.harvard.edu/abs/2011A&A...529A.116T">XMM-Newton observations of the X-ray soft polar QS Telescopii</a></li> 
+		<li>Tylenda, R. et al. 2011, Astronomy and Astrophysics, 532, A138. <a href="http://adsabs.harvard.edu/abs/2011A&A...532A.138T">High-resolution optical spectroscopy of V838 Monocerotis in 2009</a></li> 
+		<li>Williams, S. J. et al. 2011, The Astronomical Journal, 142, 146. <a href="http://adsabs.harvard.edu/abs/2011AJ....142..146W">Radial Velocities of Galactic O-type Stars. I. Short-term Constant Velocity Stars</a></li> 
+		<li>Winters, Jennifer G. et al. 2011, The Astronomical Journal, 141, 21. <a href="http://adsabs.harvard.edu/abs/2011AJ....141...21W">The Solar Neighborhood. XXIII. CCD Photometric Distance Estimates of SCR Targets—77 M Dwarf Systems within 25 pc</a></li> 
+		<li>Woitke, P. et al. 2011, Astronomy and Astrophysics, 534, A44. <a href="http://adsabs.harvard.edu/abs/2011A&A...534A..44W">The unusual protoplanetary disk around the T Tauri star ET Chamaeleontis</a></li> 
+		<li>von Braun, Kaspar et al. 2011, The Astrophysical Journal, 729, L26. <a href="http://adsabs.harvard.edu/abs/2011ApJ...729L..26V">Astrophysical Parameters and Habitable Zone of the Exoplanet Hosting Star GJ 581</a></li> 
+	</ul> 
+</div>
+<h3>2010</h3> 
+<div> 
+	<ul> 
+		<li>Bayless, Amanda J. et al. 2010, The Astrophysical Journal, 709, 251. <a href="http://adsabs.harvard.edu/abs/2010ApJ...709..251B">The Structure of the Accretion Disk in the Accretion Disk Corona X-ray Binary 4U 1822-371 at Optical and Ultraviolet Wavelengths</a></li> 
+		<li>Bennett, D. P. et al. 2010, The Astrophysical Journal, 713, 837. <a href="http://adsabs.harvard.edu/abs/2010ApJ...713..837B">Masses and Orbital Constraints for the OGLE-2006-BLG-109Lb,c Jupiter/Saturn Analog Planetary System</a></li> 
+		<li>Blackburne, Jeffrey A. et al. 2010, The Astrophysical Journal, 718, 1079. <a href="http://adsabs.harvard.edu/abs/2010ApJ...718.1079B">The Effect of a Time-varying Accretion Disk Size on Quasar Microlensing Light Curves</a></li> 
+		<li>Cantrell, Andrew G. et al. 2010, The Astrophysical Journal, 710, 1127. <a href="http://adsabs.harvard.edu/abs/2010ApJ...710.1127C">The Inclination of the Soft X-Ray Transient A0620-00 and the Mass of its Black Hole</a></li> 
+		<li>Cargile, P. A. et al. 2010, The Astronomical Journal, 140, 677. <a href="http://adsabs.harvard.edu/abs/2010AJ....140..677C">Employing a New, BVI<SUB>c</SUB> Photometric Survey of IC 4665 to Investigate the Age of This Young Open Cluster</a></li> 
+		<li>Carraro, Giovanni et al. 2010, The Astronomical Journal, 140, 954. <a href="http://adsabs.harvard.edu/abs/2010AJ....140..954C">Photometric Characterization of the Galactic Star Cluster Trumpler 20</a></li> 
+		<li>Carraro, Giovanni et al. 2010, The Astrophysical Journal, 718, 683. <a href="http://adsabs.harvard.edu/abs/2010ApJ...718..683C">The Edge of the Young Galactic Disk</a></li> 
+		<li>Carraro, Giovanni et al. 2010, Monthly Notices of the Royal Astronomical Society, 402, 1863. <a href="http://adsabs.harvard.edu/abs/2010MNRAS.402.1863C">Breaking the curtain: the old open cluster VdB-Hagen 67 in the background of the Vela Molecular Ridge</a></li> 
+		<li>Cobb, B. E. et al. 2010, The Astrophysical Journal, 718, L150. <a href="http://adsabs.harvard.edu/abs/2010ApJ...718L.150C">Discovery of SN 2009nz Associated with GRB 091127</a></li> 
+		<li>Cobb, Bethany et al. 2010, American Astronomical Society Meeting Abstracts #215, 215, 303.05. <a href="http://adsabs.harvard.edu/abs/2010AAS...21530305C">Multi-wavelength Observations of the Bright Afterglow of Gamma-ray Burst 090313</a></li> 
+		<li>Contreras, R. et al. 2010, The Astronomical Journal, 140, 1766. <a href="http://adsabs.harvard.edu/abs/2010AJ....140.1766C">Time-series Photometry of Globular Clusters: M62 (NGC 6266), the Most RR Lyrae-rich Globular Cluster in the Galaxy?</a></li> 
+		<li>Corbet, Robin H. D. et al. 2010, The Astrophysical Journal, 719, 979. <a href="http://adsabs.harvard.edu/abs/2010ApJ...719..979C">Properties of the 24 Day Modulation in GX 13+1 from Near-infrared and X-ray Observations</a></li> 
+		<li>Dai, X. et al. 2010, The Astrophysical Journal, 709, 278. <a href="http://adsabs.harvard.edu/abs/2010ApJ...709..278D">The Sizes of the X-ray and Optical Emission Regions of RXJ 1131-1231</a></li> 
+		<li>Elias-Rosa, Nancy et al. 2010, The Astrophysical Journal, 714, L254. <a href="http://adsabs.harvard.edu/abs/2010ApJ...714L.254E">The Massive Progenitor of the Type II-linear Supernova 2009kr</a></li> 
+		<li>Exter, Katrina et al. 2010, The Astronomical Journal, 140, 1414. <a href="http://adsabs.harvard.edu/abs/2010AJ....140.1414E">The Exotic Eclipsing Nucleus of the Ring Planetary Nebula SuWt 2</a></li> 
+		<li>Faherty, Jacqueline K. et al. 2010, The Astronomical Journal, 139, 176. <a href="http://adsabs.harvard.edu/abs/2010AJ....139..176F">The Brown Dwarf Kinematics Project. II. Details on Nine Wide Common Proper Motion Very Low Mass Companions to Nearby Stars</a></li> 
+		<li>Fouqué, P. et al. 2010, Astronomy and Astrophysics, 518, A51. <a href="http://adsabs.harvard.edu/abs/2010A&A...518A..51F">OGLE 2008-BLG-290: an accurate measurement of the limb darkening of a galactic bulge K Giant spatially resolved by microlensing</a></li> 
+		<li>Greiner, J. et al. 2010, Astronomische Nachrichten, 331, 227. <a href="http://adsabs.harvard.edu/abs/2010AN....331..227G">On the relation between supersoft X-ray sources and VY Scl stars: The cases of V504 Cen and VY Scl</a></li> 
+		<li>Herbst, William et al. 2010, The Astronomical Journal, 140, 2025. <a href="http://adsabs.harvard.edu/abs/2010AJ....140.2025H">The Light Curve of the Weakly Accreting T Tauri Binary KH 15D from 2005-2010: Insights into the Nature of its Protoplanetary Disk</a></li> 
+		<li>Hwang, K. -H. et al. 2010, The Astrophysical Journal, 723, 797. <a href="http://adsabs.harvard.edu/abs/2010ApJ...723..797H">OGLE-2005-BLG-153: Microlensing Discovery and Characterization of a Very Low Mass Binary</a></li> 
+		<li>Janczak, Julia et al. 2010, The Astrophysical Journal, 711, 731. <a href="http://adsabs.harvard.edu/abs/2010ApJ...711..731J">Sub-Saturn Planet MOA-2008-BLG-310Lb: Likely to be in the Galactic Bulge</a></li> 
+		<li>Jorstad, Svetlana G. et al. 2010, The Astrophysical Journal, 715, 362. <a href="http://adsabs.harvard.edu/abs/2010ApJ...715..362J">Flaring Behavior of the Quasar 3C 454.3 Across the Electromagnetic Spectrum</a></li> 
+		<li>Kocevski, Daniel et al. 2010, Monthly Notices of the Royal Astronomical Society, 404, 963. <a href="http://adsabs.harvard.edu/abs/2010MNRAS.404..963K">Limits on radioactive powered emission associated with a short-hard GRB 070724A in a star-forming galaxy</a></li> 
+		<li>Külebi, B. et al. 2010, Astronomy and Astrophysics, 524, A36. <a href="http://adsabs.harvard.edu/abs/2010A&A...524A..36K">Constraints on the origin of the massive, hot, and rapidly rotating magnetic white dwarf RE J 0317-853 from an HST parallax measurement</a></li> 
+		<li>Marscher, Alan P. et al. 2010, The Astrophysical Journal, 710, L126. <a href="http://adsabs.harvard.edu/abs/2010ApJ...710L.126M">Probing the Inner Jet of the Quasar PKS 1510-089 with Multi-Waveband Monitoring During Strong Gamma-Ray Activity</a></li> 
+		<li>Migliari, S. et al. 2010, The Astrophysical Journal, 710, 117. <a href="http://adsabs.harvard.edu/abs/2010ApJ...710..117M">The Complete Spectrum of the Neutron Star X-ray Binary 4U 0614+091</a></li> 
+		<li>Morgan, Christopher W. et al. 2010, The Astrophysical Journal, 712, 1129. <a href="http://adsabs.harvard.edu/abs/2010ApJ...712.1129M">The Quasar Accretion Disk Size-Black Hole Mass Relation</a></li> 
+		<li>Richardson, N. D. et al. 2010, The Astronomical Journal, 139, 1534. <a href="http://adsabs.harvard.edu/abs/2010AJ....139.1534R">The Hα Variations of η Carinae During the 2009.0 Spectroscopic Event</a></li> 
+		<li>Riedel, Adric R. et al. 2010, The Astronomical Journal, 140, 897. <a href="http://adsabs.harvard.edu/abs/2010AJ....140..897R">The Solar Neighborhood. XXII. Parallax Results from the CTIOPI 0.9 m Program: Trigonometric Parallaxes of 64 Nearby Systems with 0farcs5 〈=μ〈= 1farcs0 yr<SUP>-1</SUP> (SLOWMO Sample)</a></li> 
+		<li>Russell, D. M. et al. 2010, Monthly Notices of the Royal Astronomical Society, 405, 1759. <a href="http://adsabs.harvard.edu/abs/2010MNRAS.405.1759R">Evidence for a compact jet dominating the broad-band spectrum of the black hole accretor XTE J1550-564</a></li> 
+		<li>Ryu, Y. -H. et al. 2010, The Astrophysical Journal, 723, 81. <a href="http://adsabs.harvard.edu/abs/2010ApJ...723...81R">OGLE-2009-BLG-092/MOA-2009-BLG-137: A Dramatic Repeating Event with the Second Perturbation Predicted by Real-time Analysis</a></li> 
+		<li>Saha, Abhijit et al. 2010, The Astronomical Journal, 140, 1719. <a href="http://adsabs.harvard.edu/abs/2010AJ....140.1719S">First Results from the NOAO Survey of the Outer Limits of the Magellanic Clouds</a></li> 
+		<li>Schaefer, Martha W. et al. 2010, Icarus, 207, 699. <a href="http://adsabs.harvard.edu/abs/2010Icar..207..699S">Phase curves of nine Trojan asteroids over a wide range of phase angles</a></li> 
+		<li>Subasavage, John P. et al. 2010, Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 7737, 77371C. <a href="http://adsabs.harvard.edu/abs/2010SPIE.7737E..1CS">SMARTS revealed</a></li> 
+		<li>Sumi, T. et al. 2010, The Astrophysical Journal, 710, 1641. <a href="http://adsabs.harvard.edu/abs/2010ApJ...710.1641S">A Cold Neptune-Mass Planet OGLE-2007-BLG-368Lb: Cold Neptunes Are Common</a></li> 
+		<li>Townsend, R. H. D. et al. 2010, The Astrophysical Journal, 714, L318. <a href="http://adsabs.harvard.edu/abs/2010ApJ...714L.318T">Discovery of Rotational Braking in the Magnetic Helium-strong Star Sigma Orionis E</a></li> 
+		<li>Villanova, S. et al. 2010, Astronomy and Astrophysics, 509, A102. <a href="http://adsabs.harvard.edu/abs/2010A&A...509A.102V">The metallicity of the open cluster Tombaugh 2</a></li> 
+	</ul> 
+</div>
+<h3>2009</h3> 
+<div> 
+	<ul> 
+		<li>Aragona, Christina et al. 2009, The Astrophysical Journal, 698, 514. <a href="http://adsabs.harvard.edu/abs/2009ApJ...698..514A">The Orbits of the γ-Ray Binaries LS I +61 303 and LS 5039</a></li> 
+		<li>Batista, V. et al. 2009, Astronomy and Astrophysics, 508, 467. <a href="http://adsabs.harvard.edu/abs/2009A&A...508..467B">Mass measurement of a single unseen star and planetary detection efficiency for OGLE 2007-BLG-050</a></li> 
+		<li>Bensby, T. et al. 2009, The Astrophysical Journal, 699, L174. <a href="http://adsabs.harvard.edu/abs/2009ApJ...699L.174B">OGLE-2009-BLG-076S: The Most Metal-Poor Dwarf Star in the Galactic Bulge</a></li> 
+		<li>Bezanson, Rachel et al. 2009, The Astrophysical Journal, 697, 1290. <a href="http://adsabs.harvard.edu/abs/2009ApJ...697.1290B">The Relation Between Compact, Quiescent High-redshift Galaxies and Massive Nearby Elliptical Galaxies: Evidence for Hierarchical, Inside-Out Growth</a></li> 
+		<li>Bond, Howard E. et al. 2009, The Astrophysical Journal, 695, L154. <a href="http://adsabs.harvard.edu/abs/2009ApJ...695L.154B">The 2008 Luminous Optical Transient in the Nearby Galaxy NGC 300</a></li> 
+		<li>Bonning, E. W. et al. 2009, The Astrophysical Journal, 697, L81. <a href="http://adsabs.harvard.edu/abs/2009ApJ...697L..81B">Correlated Variability in the Blazar 3C 454.3</a></li> 
+		<li>Cargile, P. A. et al. 2009, The Astronomical Journal, 137, 3230. <a href="http://adsabs.harvard.edu/abs/2009AJ....137.3230C">A New X-Ray Analysis of the Open Cluster Blanco 1 Using Wide-Field BVI<SUB>c</SUB> Photometric and Proper Motion Surveys</a></li> 
+		<li>Carraro, G. et al. 2009, Astronomy and Astrophysics, 493, 71. <a href="http://adsabs.harvard.edu/abs/2009A&A...493...71C">Searching for spiral features in the outer Galactic disk. The field towards WR38 and WR38a</a></li> 
+		<li>Chartas, G. et al. 2009, The Astrophysical Journal, 693, 174. <a href="http://adsabs.harvard.edu/abs/2009ApJ...693..174C">X-Ray Microlensing in RXJ1131-1231 and HE1104-1805</a></li> 
+		<li>Coriat, M. et al. 2009, Monthly Notices of the Royal Astronomical Society, 400, 123. <a href="http://adsabs.harvard.edu/abs/2009MNRAS.400..123C">The infrared/X-ray correlation of GX 339-4: probing hard X-ray emission in accreting black holes</a></li> 
+		<li>Dong, Subo et al. 2009, The Astrophysical Journal, 698, 1826. <a href="http://adsabs.harvard.edu/abs/2009ApJ...698.1826D">Microlensing Event MOA-2007-BLG-400: Exhuming the Buried Signature of a Cool, Jovian-Mass Planet</a></li> 
+		<li>Dong, Subo et al. 2009, The Astrophysical Journal, 695, 970. <a href="http://adsabs.harvard.edu/abs/2009ApJ...695..970D">OGLE-2005-BLG-071Lb, the Most Massive M Dwarf Planetary Companion?</a></li> 
+		<li>Gould, A. et al. 2009, The Astrophysical Journal, 698, L147. <a href="http://adsabs.harvard.edu/abs/2009ApJ...698L.147G">The Extreme Microlensing Event OGLE-2007-BLG-224: Terrestrial Parallax Observation of a Thick-Disk Brown Dwarf</a></li> 
+		<li>Gómez Maqueo Chew, Yilen et al. 2009, The Astrophysical Journal, 699, 1196. <a href="http://adsabs.harvard.edu/abs/2009ApJ...699.1196G">Near-infrared Light Curves of the Brown Dwarf Eclipsing Binary 2MASS J05352184-0546085: Can Spots Explain the Temperature Reversal?</a></li> 
+		<li>Hsieh, H. H. 2009, Astronomy and Astrophysics, 505, 1297. <a href="http://adsabs.harvard.edu/abs/2009A&A...505.1297H">The Hawaii trails project: comet-hunting in the main asteroid belt</a></li> 
+		<li>Jeffries, R. D. et al. 2009, Monthly Notices of the Royal Astronomical Society, 400, 317. <a href="http://adsabs.harvard.edu/abs/2009MNRAS.400..317J ">Low-mass members of the young cluster IC 4665 and pre-main-sequence lithium depletion</a></li> 
+		<li>Krisciunas, Kevin et al. 2009, The Astronomical Journal, 137, 34. <a href="http://adsabs.harvard.edu/abs/2009AJ....137...34K">Do the Photometric Colors of Type II-P Supernovae Allow Accurate Determination of Host Galaxy Extinction?</a></li> 
+		<li>Landolt, Arlo U. 2009, The Astronomical Journal, 137, 4186. <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4186L">UBVRI Photometric Standard Stars Around the Celestial Equator: Updates and Additions</a></li> 
+		<li>Lee, Jae-Woo et al. 2009, The Astrophysical Journal, 695, L78. <a href="http://adsabs.harvard.edu/abs/2009ApJ...695L..78L">Chemical Inhomogeneity in Red Giant Branch Stars and RR lyrae variables in NGC 1851: Two Subpopulations in Red Giant Branch</a></li> 
+		<li>Lee, Jae-Woo et al. 2009, Nature, 462, 480. <a href="http://adsabs.harvard.edu/abs/2009Natur.462..480L">Enrichment by supernovae in globular clusters with multiple populations</a></li> 
+		<li>Lépine, Sébastien et al. 2009, The Astronomical Journal, 137, 3632. <a href="http://adsabs.harvard.edu/abs/2009AJ....137.3632L">Nearby Young Stars Selected by Proper Motion. I. Four New Members of the β Pictoris Moving Group From The Tycho-2 Catalog</a></li> 
+		<li>Marshall, Kevin et al. 2009, The Astrophysical Journal, 696, 601. <a href="http://adsabs.harvard.edu/abs/2009ApJ...696..601M">Multiwavelength Variability of the Broad Line Radio Galaxy 3C 120</a></li> 
+		<li>Orosz, Jerome A. et al. 2009, The Astrophysical Journal, 697, 573. <a href="http://adsabs.harvard.edu/abs/2009ApJ...697..573O">A New Dynamical Model for the Black Hole Binary LMC X-1</a></li> 
+		<li>Perren, G. et al. 2009, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 52, 113. <a href="http://adsabs.harvard.edu/abs/2009BAAA...52..113P">The edge of the galactic disc: first systematic approach</a></li> 
+		<li>Provencal, J. L. et al. 2009, The Astrophysical Journal, 693, 564. <a href="http://adsabs.harvard.edu/abs/2009ApJ...693..564P">2006 Whole Earth Telescope Observations of GD358: A New Look at the Prototype DBV</a></li> 
+		<li>Schaefer, Bradley E. 2009, The Astrophysical Journal, 697, 721. <a href="http://adsabs.harvard.edu/abs/2009ApJ...697..721S">Orbital Periods for Three Recurrent Novae</a></li> 
+		<li>Subasavage, John P. et al. 2009, The Astronomical Journal, 137, 4547. <a href="http://adsabs.harvard.edu/abs/2009AJ....137.4547S">The Solar Neighborhood. XXI. Parallax Results from the CTIOPI 0.9 m Program: 20 New Members of the 25 Parsec White Dwarf Sample</a></li> 
+		<li>Tal, Tomer et al. 2009, The Astronomical Journal, 138, 1417. <a href="http://adsabs.harvard.edu/abs/2009AJ....138.1417T">The Frequency of Tidal Features Associated with Nearby Luminous Elliptical Galaxies From a Statistically Complete Sample</a></li> 
+		<li>Tudose, V. et al. 2009, Monthly Notices of the Royal Astronomical Society, 400, 2111. <a href="http://adsabs.harvard.edu/abs/2009MNRAS.400.2111T">The disc-jet coupling in the neutron star X-ray binary Aquila X-1</a></li> 
+		<li>Winkler, P. Frank et al. 2009, The Astrophysical Journal, 692, 1489. <a href="http://adsabs.harvard.edu/abs/2009ApJ...692.1489W">Expanding Ejecta in the Oxygen-Rich Supernova Remnant G292.0+1.8: Direct Measurement Through Proper Motions</a></li> 
+		<li>Yee, J. C. et al. 2009, The Astrophysical Journal, 703, 2082. <a href="http://adsabs.harvard.edu/abs/2009ApJ...703.2082Y">Extreme Magnification Microlensing Event OGLE-2008-BLG-279: Strong Limits on Planetary Companions to the Lens Star</a></li> 
+	</ul> 
+</div>
+<h3>2008</h3> 
+<div> 
+	<ul> 
+		<li>Cantrell, Andrew G. et al. 2008, The Astrophysical Journal, 673, L159. <a href="http://adsabs.harvard.edu/abs/2008ApJ...673L.159C">Optical State Changes in the X-Ray-quiescent Black Hole A0620-00</a></li> 
+		<li>Cargile, P. A. et al. 2008, The Astrophysical Journal, 674, 329. <a href="http://adsabs.harvard.edu/abs/2008ApJ...674..329C">Discovery of Par 1802 as a Low-Mass, Pre-Main-Sequence Eclipsing Binary in the Orion Star-Forming Region</a></li> 
+		<li>Carraro, G. et al. 2008, Monthly Notices of the Royal Astronomical Society, 386, 1625. <a href="http://adsabs.harvard.edu/abs/2008MNRAS.386.1625C">The old open cluster NGC 2112: updated estimates of fundamental parameters based on a membership analysis†</a></li> 
+		<li>Carraro, Giovanni et al. 2008, Monthly Notices of the Royal Astronomical Society, 385, 1597. <a href="http://adsabs.harvard.edu/abs/2008MNRAS.385.1597C">Stellar populations in the Canis Major overdensity</a></li> 
+		<li>Cobb, Bethany E. et al. 2008, The Astrophysical Journal, 677, 1157. <a href="http://adsabs.harvard.edu/abs/2008ApJ...677.1157C">Connecting Gamma-Ray Bursts and Galaxies: The Probability of Chance Coincidence</a></li> 
+		<li>Dunn, Jay P. et al. 2008, The Astronomical Journal, 136, 1201. <a href="http://adsabs.harvard.edu/abs/2008AJ....136.1201D">Intrinsic Absorption Properties in Active Galaxies Observed with the Far Ultraviolet Spectroscopic Explorer</a></li> 
+		<li>Gahm, G. F. et al. 2008, Astronomy and Astrophysics, 482, L35. <a href="http://adsabs.harvard.edu/abs/2008A&A...482L..35G">Unveiling extremely veiled T Tauri stars</a></li> 
+		<li>Gaudi, B. S. et al. 2008, Science, 319, 927. <a href="http://adsabs.harvard.edu/abs/2008Sci...319..927G">Discovery of a Jupiter/Saturn Analog with Gravitational Microlensing</a></li> 
+		<li>Handler, G. et al. 2008, Monthly Notices of the Royal Astronomical Society, 388, 1444. <a href="http://adsabs.harvard.edu/abs/2008MNRAS.388.1444H">The pulsating DA white dwarf star EC14012-1446: results from four epochs of time-resolved photometry</a></li> 
+		<li>Maitra, Dipankar et al. 2008, The Astrophysical Journal, 688, 537. <a href="http://adsabs.harvard.edu/abs/2008ApJ...688..537M">Outburst Morphology in the Soft X-Ray Transient Aquila X-1</a></li> 
+		<li>Marshall, Kevin et al. 2008, The Astrophysical Journal, 677, 880. <a href="http://adsabs.harvard.edu/abs/2008ApJ...677..880M">Correlated X-Ray and Optical Variability in Markarian 509</a></li> 
+		<li>McSwain, M. Virginia et al. 2008, The Astrophysical Journal, 672, 590. <a href="http://adsabs.harvard.edu/abs/2008ApJ...672..590M">The B and Be Star Population of NGC 3766</a></li> 
+		<li>Mermilliod, J. -C. et al. 2008, Astronomy and Astrophysics, 485, 95. <a href="http://adsabs.harvard.edu/abs/2008A&A...485...95M">Membership, binarity, and rotation of F-G-K stars in the open cluster Blanco 1</a></li> 
+		<li>Morgan, Christopher W. et al. 2008, The Astrophysical Journal, 689, 755. <a href="http://adsabs.harvard.edu/abs/2008ApJ...689..755M">X-Ray and Optical Microlensing in the Lensed Quasar PG 1115+080</a></li> 
+		<li>Morgan, Christopher W. et al. 2008, The Astrophysical Journal, 676, 80. <a href="http://adsabs.harvard.edu/abs/2008ApJ...676...80M">Simultaneous Estimation of Time Delays and Quasar Structure</a></li> 
+		<li>Nazé, Yaël et al. 2008, The Astronomical Journal, 135, 1946. <a href="http://adsabs.harvard.edu/abs/2008AJ....135.1946N">HD 148937: A Multiwavelength Study of the Third Galactic Member of the Of?p Class</a></li> 
+		<li>Poindexter, Shawn et al. 2008, The Astrophysical Journal, 673, 34. <a href="http://adsabs.harvard.edu/abs/2008ApJ...673...34P">The Spatial Structure of an Accretion Disk</a></li> 
+		<li>Schaefer, Bradley E. et al. 2008, Icarus, 196, 225. <a href="http://adsabs.harvard.edu/abs/2008Icar..196..225S">Nereid: Light curve for 1999 2006 and a scenario for its variations</a></li> 
+		<li>Stassun, Keivan G. et al. 2008, Nature, 453, 1079. <a href="http://adsabs.harvard.edu/abs/2008Natur.453.1079S">Surprising dissimilarities in a newly formed pair of `identical twin' stars</a></li> 
+		<li>Subasavage, John P. et al. 2008, The Astronomical Journal, 136, 899. <a href="http://adsabs.harvard.edu/abs/2008AJ....136..899S">The Solar Neighborhood. Xx. Discovery and Characterization of 21 New Nearby White Dwarf Systems</a></li> 
+		<li>Trippe, M. L. et al. 2008, The Astronomical Journal, 135, 2048. <a href="http://adsabs.harvard.edu/abs/2008AJ....135.2048T">Long-Term Variability in the Optical Spectrum of the Seyfert Galaxy NGC 2992</a></li> 
+		<li>Vuissoz, C. et al. 2008, Astronomy and Astrophysics, 488, 481. <a href="http://adsabs.harvard.edu/abs/2008A&A...488..481V">COSMOGRAIL: the COSmological MOnitoring of GRAvItational Lenses. VII. Time delays and the Hubble constant from WFI J2033-4723</a></li> 
+		<li>Vázquez, Ruben A. et al. 2008, The Astrophysical Journal, 672, 930. <a href="http://adsabs.harvard.edu/abs/2008ApJ...672..930V">Spiral Structure in the Outer Galactic Disk. I. The Third Galactic Quadrant</a></li> 
+		<li>Williams, S. J. et al. 2008, The Astrophysical Journal, 682, 492. <a href="http://adsabs.harvard.edu/abs/2008ApJ...682..492W">Dynamical Masses for the Large Magellanic Cloud Massive Binary System [L72] LH 54-425</a></li> 
+	</ul> 
+</div>
+<h3>2007</h3> 
+<div> 
+	<ul> 
+		<li>Afşar, Melike et al. 2007, The Astronomical Journal, 133, 387. <a href="http://adsabs.harvard.edu/abs/2007AJ....133..387A">A Young Stellar Cluster Surrounding the Peculiar Eruptive Variable V838 Monocerotis</a></li> 
+		<li>Beers, Timothy C. et al. 2007, The Astrophysical Journal Supplement Series, 168, 128. <a href="http://adsabs.harvard.edu/abs/2007ApJS..168..128B">Broadband UBVR<SUB>C</SUB>I<SUB>C</SUB> Photometry of Horizontal-Branch and Metal-poor Candidates from the HK and Hamburg/ESO Surveys. I.</a></li> 
+		<li>Biller, B. A. et al. 2007, The Astrophysical Journal, 669, L41. <a href="http://adsabs.harvard.edu/abs/2007ApJ...669L..41B">A Direct Distance and Luminosity Determination for a Self-luminous Giant Exoplanet: The Trigonometric Parallax to 2MASSW J1207334-393254Ab</a></li> 
+		<li>Broeg, C. et al. 2007, Astronomy and Astrophysics, 468, 1039. <a href="http://adsabs.harvard.edu/abs/2007A&A...468.1039B">Rotational period of GQ Lupi</a></li> 
+		<li>Brown, M. E. et al. 2007, The Astronomical Journal, 133, 284. <a href="http://adsabs.harvard.edu/abs/2007AJ....133..284B">Methane and Ethane on the Bright Kuiper Belt Object 2005 FY9</a></li> 
+		<li>Burwitz, V. et al. 2007, Advances in Space Research, 40, 1294. <a href="http://adsabs.harvard.edu/abs/2007AdSpR..40.1294B">First high-resolution Chandra LETGS spectrum of the transient supersoft X-ray source RX J0513.9-6951</a></li> 
+		<li>Carraro, G. et al. 2007, Astronomy and Astrophysics, 464, 573. <a href="http://adsabs.harvard.edu/abs/2007A&A...464..573C">Photometry of the five marginally studied open clusters Collinder 74, Berkeley 27, Haffner 8, NGC 2509, and VdB-Hagen 4</a></li> 
+		<li>Carraro, G. et al. 2007, Astronomy and Astrophysics, 466, 931. <a href="http://adsabs.harvard.edu/abs/2007A&A...466..931C">Observational templates of star cluster disruption. The stellar group NGC 1901 in front of the Large Magellanic Cloud</a></li> 
+		<li>Carraro, Giovanni et al. 2007, The Astronomical Journal, 133, 1058. <a href="http://adsabs.harvard.edu/abs/2007AJ....133.1058C">Photometry of a Galactic Field at l=232°, b=-6°: The Old Open Cluster Auner 1, the Norma-Cygnus Spiral Arm, and the Signature of the Warped Galactic Thick Disk</a></li> 
+		<li>Cohen, Judith G. et al. 2007, The Astrophysical Journal, 659, L161. <a href="http://adsabs.harvard.edu/abs/2007ApJ...659L.161C">A New Type of Extremely Metal-poor Star</a></li> 
+		<li>Dong, Subo et al. 2007, The Astrophysical Journal, 664, 862. <a href="http://adsabs.harvard.edu/abs/2007ApJ...664..862D">First Space-Based Microlens Parallax Measurement: Spitzer Observations of OGLE-2005-SMC-001</a></li> 
+		<li>Forbrich, J. et al. 2007, Astronomy and Astrophysics, 464, 1003. <a href="http://adsabs.harvard.edu/abs/2007A&A...464.1003F">Simultaneous X-ray, radio, near-infrared, and optical monitoring of young stellar objects in the Coronet cluster</a></li> 
+		<li>Gallo, Elena et al. 2007, The Astrophysical Journal, 670, 600. <a href="http://adsabs.harvard.edu/abs/2007ApJ...670..600G">The Spectral Energy Distribution of Quiescent Black Hole X-Ray Binaries: New Constraints from Spitzer</a></li> 
+		<li>Gizis, John E. et al. 2007, The Astrophysical Journal, 669, L45. <a href="http://adsabs.harvard.edu/abs/2007ApJ...669L..45G">The Trigonometric Parallax of the Brown Dwarf Planetary System 2MASSW J1207334-393254</a></li> 
+		<li>Jensen, Eric L. N. et al. 2007, The Astronomical Journal, 134, 241. <a href="http://adsabs.harvard.edu/abs/2007AJ....134..241J">Periodic Accretion from a Circumbinary Disk in the Young Binary UZ Tau E</a></li> 
+		<li>Krisciunas, Kevin et al. 2007, The Astronomical Journal, 133, 58. <a href="http://adsabs.harvard.edu/abs/2007AJ....133...58K">The Type Ia Supernova 2004S, a Clone of SN 2001el, and the Optimal Photometric Bands for Extinction Estimation</a></li> 
+		<li>Krisciunas, Kevin et al. 2007, Publications of the Astronomical Society of the Pacific, 119, 687. <a href="http://adsabs.harvard.edu/abs/2007PASP..119..687K">Optical Sky Brightness at Cerro Tololo Inter-American Observatory from 1992 to 2006</a></li> 
+		<li>Lebzelter, T. et al. 2007, Astronomy and Astrophysics, 475, 643. <a href="http://adsabs.harvard.edu/abs/2007A&A...475..643L">The AGB stars of the intermediate-age LMC cluster NGC 1846. Variability and age determination</a></li> 
+		<li>Massey, Philip et al. 2007, The Astrophysical Journal, 660, 301. <a href="http://adsabs.harvard.edu/abs/2007ApJ...660..301M">HV 11423: The Coolest Supergiant in the SMC</a></li> 
+		<li>Migliari, S. et al. 2007, The Astrophysical Journal, 670, 610. <a href="http://adsabs.harvard.edu/abs/2007ApJ...670..610M">Tracing the Jet Contribution to the Mid-IR over the 2005 Outburst of GRO J1655-40 via Broadband Spectral Modeling</a></li> 
+		<li>Neil, Ethan T. et al. 2007, The Astrophysical Journal, 657, 409. <a href="http://adsabs.harvard.edu/abs/2007ApJ...657..409N">Infrared Monitoring of the Microquasar GRS 1915+105: Detection of Orbital and Superhump Signatures</a></li> 
+		<li>Osterman, M. Angela et al. 2007, The Astrophysical Journal, 671, 97. <a href="http://adsabs.harvard.edu/abs/2007ApJ...671...97O">New Multiwavelength Observations of PKS 2155-304 and Implications for the Coordinated Variability Patterns of Blazars</a></li> 
+		<li>Poindexter, Shawn et al. 2007, The Astrophysical Journal, 660, 146. <a href="http://adsabs.harvard.edu/abs/2007ApJ...660..146P">Mid-IR Observations and a Revised Time Delay for the Gravitational Lens System Quasar HE 1104-1805</a></li> 
+		<li>Rabinowitz, David L. et al. 2007, The Astronomical Journal, 133, 26. <a href="http://adsabs.harvard.edu/abs/2007AJ....133...26R">The Diverse Solar Phase Curves of Distant Icy Bodies. I. Photometric Observations of 18 Trans-Neptunian Objects, 7 Centaurs, and Nereid</a></li> 
+		<li>Rauw, G. et al. 2007, Astronomy and Astrophysics, 463, 981. <a href="http://adsabs.harvard.edu/abs/2007A&A...463..981R">Early-type stars in the core of the young open cluster Westerlund 2</a></li> 
+		<li>Schmidt, Sarah J. et al. 2007, The Astronomical Journal, 133, 2258. <a href="http://adsabs.harvard.edu/abs/2007AJ....133.2258S">Activity and Kinematics of Ultracool Dwarfs, Including an Amazing Flare Observation</a></li> 
+		<li>Shaposhnikov, N. et al. 2007, The Astrophysical Journal, 655, 434. <a href="http://adsabs.harvard.edu/abs/2007ApJ...655..434S">GRO J1655-40: Early Stages of the 2005 Outburst</a></li> 
+		<li>Stassun, Keivan G. et al. 2007, The Astrophysical Journal, 664, 1154. <a href="http://adsabs.harvard.edu/abs/2007ApJ...664.1154S">A Surprising Reversal of Temperatures in the Brown Dwarf Eclipsing Binary 2MASS J05352184-0546085</a></li> 
+		<li>Subasavage, John P. et al. 2007, The Astronomical Journal, 134, 252. <a href="http://adsabs.harvard.edu/abs/2007AJ....134..252S">The Solar Neighborhood. XIX. Discovery and Characterization of 33 New Nearby White Dwarf Systems</a></li> 
+		<li>Tanner, Angelle et al. 2007, Publications of the Astronomical Society of the Pacific, 119, 747. <a href="http://adsabs.harvard.edu/abs/2007PASP..119..747T">SIM PlanetQuest Key Project Precursor Observations to Detect Gas Giant Planets around Young Stars</a></li> 
+		<li>Tappert, C. et al. 2007, Astronomy and Astrophysics, 474, 205. <a href="http://adsabs.harvard.edu/abs/2007A&A...474..205T">The pre-cataclysmic variable, LTT 560</a></li> 
+	</ul> 
+</div>
+<h3>2006</h3> 
+<div> 
+	<ul> 
+		<li>Artigau, Étienne et al. 2006, The Astrophysical Journal, 651, L57. <a href="http://adsabs.harvard.edu/abs/2006ApJ...651L..57A">Discovery of the Brightest T Dwarf in the Northern Hemisphere</a></li> 
+		<li>Bond, Howard E. et al. 2006, The Astronomical Journal, 131, 984. <a href="http://adsabs.harvard.edu/abs/2006AJ....131..984B">Hubble Space Telescope Imaging of the Outburst Site of M31 RV</a></li> 
+		<li>Brown, M. E. et al. 2006, The Astrophysical Journal, 643, L61. <a href="http://adsabs.harvard.edu/abs/2006ApJ...643L..61B">Direct Measurement of the Size of 2003 UB313 from the Hubble Space Telescope</a></li> 
+		<li>Carraro, G. et al. 2006, Monthly Notices of the Royal Astronomical Society, 368, 1078. <a href="http://adsabs.harvard.edu/abs/2006MNRAS.368.1078C">Photometry of seven overlooked open clusters in the first and fourth Galactic quadrants</a></li> 
+		<li>Carraro, G. et al. 2006, Astronomy and Astrophysics, 460, L39. <a href="http://adsabs.harvard.edu/abs/2006A&A...460L..39C">Time series photometry of the dwarf planet ERIS (2003 UB313)</a></li> 
+		<li>Cobb, B. E. et al. 2006, The Astrophysical Journal, 651, L85. <a href="http://adsabs.harvard.edu/abs/2006ApJ...651L..85C">Could GRB 060614 and Its Presumed Host Galaxy Be a Chance Superposition?</a></li> 
+		<li>Cobb, B. E. et al. 2006, The Astrophysical Journal, 645, L113. <a href="http://adsabs.harvard.edu/abs/2006ApJ...645L.113C">SN 2006aj and the Nature of Low-Luminosity Gamma-Ray Bursts</a></li> 
+		<li>Cohen, Judith G. et al. 2006, The Astronomical Journal, 132, 137. <a href="http://adsabs.harvard.edu/abs/2006AJ....132..137C">Carbon Stars in the Hamburg/ESO Survey: Abundances</a></li> 
+		<li>Crowther, P. A. et al. 2006, Astronomy and Astrophysics, 446, 279. <a href="http://adsabs.harvard.edu/abs/2006A&A...446..279C">Physical parameters and wind properties of galactic early B supergiants</a></li> 
+		<li>Demers, S. et al. 2006, Astronomy and Astrophysics, 456, 905. <a href="http://adsabs.harvard.edu/abs/2006A&A...456..905D">Carbon stars in the outer spheroid of NGC 6822</a></li> 
+		<li>Ederoclite, A. et al. 2006, Astronomy and Astrophysics, 459, 875. <a href="http://adsabs.harvard.edu/abs/2006A&A...459..875E">Early spectral evolution of Nova Sagittarii 2004 (V5114 Sagittarii)</a></li> 
+		<li>Fischer, Debra A. et al. 2006, The Astrophysical Journal, 637, 1094. <a href="http://adsabs.harvard.edu/abs/2006ApJ...637.1094F">The N2K Consortium. III. Short-Period Planets Orbiting HD 149143 and HD 109749</a></li> 
+		<li>Foley, R. J. et al. 2006, The Astrophysical Journal, 645, 450. <a href="http://adsabs.harvard.edu/abs/2006ApJ...645..450F">GRB 050408: A Bright Gamma-Ray Burst Probing an Atypical Galactic Environment</a></li> 
+		<li>Georgantopoulos, I. et al. 2006, Monthly Notices of the Royal Astronomical Society, 367, 1727. <a href="http://adsabs.harvard.edu/abs/2006MNRAS.367.1727G">XMM-Newton and Chandra observations of SHEEP sources</a></li> 
+		<li>Gerke, Jill R. et al. 2006, Publications of the Astronomical Society of the Pacific, 118, 678. <a href="http://adsabs.harvard.edu/abs/2006PASP..118..678G">Polars Changing State: Multiwavelength Long-Term Photometry and Spectroscopy of QS Telescopii, V834 Centauri, and BL Hydri</a></li> 
+		<li>Goudfrooij, Paul et al. 2006, Monthly Notices of the Royal Astronomical Society, 369, 697. <a href="http://adsabs.harvard.edu/abs/2006MNRAS.369..697G">Integrated-light VRI imaging photometry of globular clusters in the Magellanic Clouds</a></li> 
+		<li>Gould, A. et al. 2006, The Astrophysical Journal, 644, L37. <a href="http://adsabs.harvard.edu/abs/2006ApJ...644L..37G">Microlens OGLE-2005-BLG-169 Implies That Cool Neptune-like Planets Are Common</a></li> 
+		<li>Hamuy, Mario et al. 2006, Publications of the Astronomical Society of the Pacific, 118, 2. <a href="http://adsabs.harvard.edu/abs/2006PASP..118....2H">The Carnegie Supernova Project: The Low-Redshift Survey</a></li> 
+		<li>Henry, Todd J. et al. 2006, The Astronomical Journal, 132, 2360. <a href="http://adsabs.harvard.edu/abs/2006AJ....132.2360H">The Solar Neighborhood. XVII. Parallax Results from the CTIOPI 0.9 m Program: 20 New Members of the RECONS 10 Parsec Sample</a></li> 
+		<li>Howell, Steve B. et al. 2006, The Astrophysical Journal, 652, 709. <a href="http://adsabs.harvard.edu/abs/2006ApJ...652..709H">Mass Determination and Detection of the Onset of Chromospheric Activity for the Substellar Object in EF Eridani</a></li> 
+		<li>Inada, Naohisa et al. 2006, The Astrophysical Journal, 653, L97. <a href="http://adsabs.harvard.edu/abs/2006ApJ...653L..97I">SDSS J1029+2623: A Gravitationally Lensed Quasar with an Image Separation of 22.5"</a></li> 
+		<li>Kochanek, C. S. et al. 2006, The Astrophysical Journal, 637, L73. <a href="http://adsabs.harvard.edu/abs/2006ApJ...637L..73K">A Simple Method to Find All Lensed Quasars</a></li> 
+		<li>Kochanek, C. S. et al. 2006, The Astrophysical Journal, 640, 47. <a href="http://adsabs.harvard.edu/abs/2006ApJ...640...47K">The Time Delays of Gravitational Lens HE 0435-1223: An Early-Type Galaxy with a Rising Rotation Curve</a></li> 
+		<li>Maitra, Dipankar et al. 2006, The Astrophysical Journal, 637, 992. <a href="http://adsabs.harvard.edu/abs/2006ApJ...637..992M">X-Ray Observations of V4641 SGR (SAX J1819.3-2525) during the Brief and Violent Outburst of 2003</a></li> 
+		<li>Monteiro, Hektor et al. 2006, The Astrophysical Journal, 638, 446. <a href="http://adsabs.harvard.edu/abs/2006ApJ...638..446M">Ages of White Dwarf-Red Subdwarf Systems</a></li> 
+		<li>Morgan, Christopher W. et al. 2006, The Astrophysical Journal, 647, 874. <a href="http://adsabs.harvard.edu/abs/2006ApJ...647..874M">Microlensing of the Lensed Quasar SDSS 0924+0219</a></li> 
+		<li>Pandey, S. B. et al. 2006, Astronomy and Astrophysics, 460, 415. <a href="http://adsabs.harvard.edu/abs/2006A&A...460..415P">Multi-wavelength afterglow observations of the high redshift GRB 050730</a></li> 
+		<li>Phillips, Mark M. et al. 2006, The Astronomical Journal, 131, 2615. <a href="http://adsabs.harvard.edu/abs/2006AJ....131.2615P">Optical and Near-Infrared Observations of the Peculiar Type ia Supernova 1999ac</a></li> 
+		<li>Rabinowitz, David L. et al. 2006, The Astrophysical Journal, 639, 1238. <a href="http://adsabs.harvard.edu/abs/2006ApJ...639.1238R">Photometric Observations Constraining the Size, Shape, and Albedo of 2003 EL61, a Rapidly Rotating, Pluto-sized Object in the Kuiper Belt</a></li> 
+		<li>Raghavan, Deepak et al. 2006, The Astrophysical Journal, 646, 523. <a href="http://adsabs.harvard.edu/abs/2006ApJ...646..523R">Two Suns in The Sky: Stellar Multiplicity in Exoplanet Systems</a></li> 
+		<li>Riaz, Basmah et al. 2006, The Astronomical Journal, 132, 866. <a href="http://adsabs.harvard.edu/abs/2006AJ....132..866R">Identification of New M Dwarfs in the Solar Neighborhood</a></li> 
+		<li>Schmidtobreick, L. et al. 2006, Astronomy and Astrophysics, 455, 255. <a href="http://adsabs.harvard.edu/abs/2006A&A...455..255S">AD Mensae: a dwarf nova in the period gap</a></li> 
+		<li>Schmidtobreick, Linda et al. 2006, Astrophysics and Space Science, 304, 303. <a href="http://adsabs.harvard.edu/abs/2006Ap&SS.304..303S">The Enigmatic Behaviour of the Old Nova RR Pic</a></li> 
+		<li>Stassun, Keivan G. et al. 2006, Nature, 440, 311. <a href="http://adsabs.harvard.edu/abs/2006Natur.440..311S">Discovery of two young brown dwarfs in an eclipsing binary system</a></li> 
+		<li>Stringfellow, Guy S. et al. 2006, Astrophysics and Space Science, 304, 401. <a href="http://adsabs.harvard.edu/abs/2006Ap&SS.304..401S">Getting SMARTS on Novae: Highlights of the Early Evolution of Nova V475 Sct</a></li> 
+		<li>Winkler, P. Frank et al. 2006, The Astronomical Journal, 132, 360. <a href="http://adsabs.harvard.edu/abs/2006AJ....132..360W">Far-Flung Filaments of Ejecta in the Young Supernova Remnant G292.0+1.8</a></li> 
+	</ul> 
+</div>
+<h3>2005</h3> 
+<div> 
+	<ul> 
+		<li>Brown, M. E. et al. 2005, The Astrophysical Journal, 632, L45. <a href="http://adsabs.harvard.edu/abs/2005ApJ...632L..45B">Keck Observatory Laser Guide Star Adaptive Optics Discovery and Characterization of a Satellite to the Large Kuiper Belt Object 2003 EL<SUB>61</SUB></a></li> 
+		<li>Brown, M. E. et al. 2005, The Astrophysical Journal, 635, L97. <a href="http://adsabs.harvard.edu/abs/2005ApJ...635L..97B">Discovery of a Planetary-sized Object in the Scattered Kuiper Belt</a></li> 
+		<li>Carraro, G. et al. 2005, Astronomy and Astrophysics, 442, 917. <a href="http://adsabs.harvard.edu/abs/2005A&A...442..917C">A photometric study of the old open clusters Berkeley 73, Berkeley 75 and Berkeley 25</a></li> 
+		<li>Carraro, G. et al. 2005, Monthly Notices of the Royal Astronomical Society, 360, 655. <a href="http://adsabs.harvard.edu/abs/2005MNRAS.360..655C">The intermediate-age open clusters Ruprecht 4, Ruprecht 7 and Pismis 15</a></li> 
+		<li>Carraro, G. et al. 2005, Monthly Notices of the Royal Astronomical Society, 362, 649. <a href="http://adsabs.harvard.edu/abs/2005MNRAS.362..649C">The intermediate-age open clusters Ruprecht 61, Czernik 32, NGC 2225 and 2262</a></li> 
+		<li>Carraro, Giovanni 2005, The Astrophysical Journal, 621, L61. <a href="http://adsabs.harvard.edu/abs/2005ApJ...621L..61C">Whiting 1: A New Halo Young Globular Cluster</a></li> 
+		<li>Carraro, Giovanni et al. 2005, Monthly Notices of the Royal Astronomical Society, 364, 179. <a href="http://adsabs.harvard.edu/abs/2005MNRAS.364..179C">Photometry of neglected open clusters in the first and fourth Galactic quadrants</a></li> 
+		<li>Cohen, Judith G. et al. 2005, The Astronomical Journal, 129, 1607. <a href="http://adsabs.harvard.edu/abs/2005AJ....129.1607C">Outer Versus Inner Halo Globular Clusters: NGC 7492 Abundances</a></li> 
+		<li>Contreras, R. et al. 2005, The Astrophysical Journal, 623, L117. <a href="http://adsabs.harvard.edu/abs/2005ApJ...623L.117C">Discovery of More than 200 RR Lyrae Variables in M62: An Oosterhoff I Globular Cluster with a Predominantly Blue Horizontal Branch</a></li> 
+		<li>Costa, Edgardo et al. 2005, The Astronomical Journal, 130, 337. <a href="http://adsabs.harvard.edu/abs/2005AJ....130..337C">The Solar Neighborhood. XIV. Parallaxes from the Cerro Tololo Inter-American Observatory Parallax Investigation-First Results from the 1.5 m Telescope Program</a></li> 
+		<li>Deacon, Niall R. et al. 2005, The Astronomical Journal, 129, 409. <a href="http://adsabs.harvard.edu/abs/2005AJ....129..409D">The Solar Neighborhood. XI. The Trigonometric Parallax of SCR 1845-6357</a></li> 
+		<li>Dietrich, M. et al. 2005, The Astrophysical Journal, 623, 700. <a href="http://adsabs.harvard.edu/abs/2005ApJ...623..700D">Probing the Ionizing Continuum of Narrow-Line Seyfert 1 Galaxies. I. Observational Results</a></li> 
+		<li>Homan, Jeroen et al. 2005, The Astrophysical Journal, 624, 295. <a href="http://adsabs.harvard.edu/abs/2005ApJ...624..295H">Multiwavelength Observations of the 2002 Outburst of GX 339-4: Two Patterns of X-Ray-Optical/Near-Infrared Behavior</a></li> 
+		<li>Howell, Steve B. et al. 2005, Publications of the Astronomical Society of the Pacific, 117, 1187. <a href="http://adsabs.harvard.edu/abs/2005PASP..117.1187H">A Search for Variable Stars and Planetary Occultations in NGC 2301. II. Variability</a></li> 
+		<li>Jao, Wei-Chun et al. 2005, The Astronomical Journal, 129, 1954. <a href="http://adsabs.harvard.edu/abs/2005AJ....129.1954J">The Solar Neighborhood. XIII. Parallax Results from the CTIOPI 0.9 Meter Program: Stars with μ 〉= 1.0" yr<SUP>-1</SUP> (MOTION Sample)</a></li> 
+		<li>Kim, Jinyoung Serena et al. 2005, The Astronomical Journal, 129, 1564. <a href="http://adsabs.harvard.edu/abs/2005AJ....129.1564K">Low-Mass Star Formation in the Gum Nebula: The CG 30/31/38 Complex</a></li> 
+		<li>Lebzelter, T. et al. 2005, Astronomy and Astrophysics, 432, 207. <a href="http://adsabs.harvard.edu/abs/2005A&A...432..207L">Long period variables in the globular cluster 47 Tuc: Radial velocity variations</a></li> 
+		<li>Lebzelter, T. et al. 2005, Astronomy and Astrophysics, 441, 1117. <a href="http://adsabs.harvard.edu/abs/2005A&A...441.1117L">Long period variables in 47 Tuc: direct evidence for lost mass</a></li> 
+		<li>McGowan, K. E. et al. 2005, Monthly Notices of the Royal Astronomical Society, 364, 462. <a href="http://adsabs.harvard.edu/abs/2005MNRAS.364..462M">XMM spectroscopy of the transient supersoft source RXJ0513.9 - 6951: probing the dynamic white dwarf photosphere</a></li> 
+		<li>McSwain, M. Virginia et al. 2005, The Astrophysical Journal, 622, 1052. <a href="http://adsabs.harvard.edu/abs/2005ApJ...622.1052M">A Photometric Method to Search for Be Stars in Open Clusters</a></li> 
+		<li>McSwain, M. Virginia et al. 2005, The Astrophysical Journal Supplement Series, 161, 118. <a href="http://adsabs.harvard.edu/abs/2005ApJS..161..118M">The Evolutionary Status of Be Stars: Results from a Photometric Study of Southern Open Clusters</a></li> 
+		<li>Paunzen, E. et al. 2005, Astronomy and Astrophysics, 443, 157. <a href="http://adsabs.harvard.edu/abs/2005A&A...443..157P">CCD photometric search for peculiar stars in open clusters. VI. NGC 1502, NGC 3105, Stock 16, NGC 6268, NGC 7235 and NGC 7510</a></li> 
+		<li>Schmidtobreick, L. et al. 2005, Publications of the Astronomical Society of the Pacific, 117, 944. <a href="http://adsabs.harvard.edu/abs/2005PASP..117..944S">Spectroscopic Classification of Cataclysmic Variable Candidates</a></li> 
+		<li>Subasavage, John P. et al. 2005, The Astronomical Journal, 129, 413. <a href="http://adsabs.harvard.edu/abs/2005AJ....129..413S">The Solar Neighborhood. XII. Discovery of New High Proper Motion Stars with μ 〉= 0.4" yr<SUP>-1</SUP> between Declinations -90° and -47°</a></li> 
+		<li>Subasavage, John P. et al. 2005, The Astronomical Journal, 130, 1658. <a href="http://adsabs.harvard.edu/abs/2005AJ....130.1658S">The Solar Neighborhood. XV. Discovery of New High Proper Motion Stars with μ 〉= 0.4" yr<SUP>-1</SUP> between Declinations -47° and 00°</a></li> 
+		<li>Trujillo, Chadwick A. et al. 2005, The Astrophysical Journal, 627, 1057. <a href="http://adsabs.harvard.edu/abs/2005ApJ...627.1057T">Near-Infrared Surface Properties of the Two Intrinsically Brightest Minor Planets: (90377) Sedna and (90482) Orcus</a></li> 
+		<li>Udalski, A. et al. 2005, The Astrophysical Journal, 628, L109. <a href="http://adsabs.harvard.edu/abs/2005ApJ...628L.109U">A Jovian-Mass Planet in Microlensing Event OGLE-2005-BLG-071</a></li> 
+	</ul> 
+</div>
+<h3>2004</h3> 
+<div> 
+	<ul> 
+		<li>Bloom, J. S. et al. 2004, The Astronomical Journal, 127, 252. <a href="http://adsabs.harvard.edu/abs/2004AJ....127..252B">Optical-Infrared ANDICAM Observations of the Transient Associated with GRB 030329</a></li> 
+		<li>Brown, Michael E. et al. 2004, The Astrophysical Journal, 617, 645. <a href="http://adsabs.harvard.edu/abs/2004ApJ...617..645B">Discovery of a Candidate Inner Oort Cloud Planetoid</a></li> 
+		<li>Buxton, M. M. et al. 2004, The Astrophysical Journal, 615, 880. <a href="http://adsabs.harvard.edu/abs/2004ApJ...615..880B">The 2002 Outburst of the Black Hole X-Ray Binary 4U 1543-47: Optical and Infrared Light Curves</a></li> 
+		<li>Camilo, F. et al. 2004, The Astrophysical Journal, 616, 1118. <a href="http://adsabs.harvard.edu/abs/2004ApJ...616.1118C">Chandra Detection of a Synchrotron Nebula around the Vela-like Pulsar J1016-5857</a></li> 
+		<li>Cobb, B. E. et al. 2004, The Astrophysical Journal, 608, L93. <a href="http://adsabs.harvard.edu/abs/2004ApJ...608L..93C">The Supernova Associated with GRB 031203: SMARTS Optical-Infrared Light Curves from 0.2 to 92 Days</a></li> 
+		<li>Fernández, Rodrigo et al. 2004, The Astrophysical Journal, 603, 595. <a href="http://adsabs.harvard.edu/abs/2004ApJ...603..595F">Proper Motion and Kinematics of the Ansae in NGC 7009</a></li> 
+		<li>Gotthelf, E. V. et al. 2004, The Astrophysical Journal, 605, 368. <a href="http://adsabs.harvard.edu/abs/2004ApJ...605..368G">Imaging X-Ray, Optical, and Infrared Observations of the Transient Anomalous X-Ray Pulsar XTE J1810-197</a></li> 
+		<li>Henry, Todd J. et al. 2004, The Astronomical Journal, 128, 2460. <a href="http://adsabs.harvard.edu/abs/2004AJ....128.2460H">The Solar Neighborhood. X. New Nearby Stars in the Southern Sky and Accurate Photometric Distance Estimates for Red Dwarfs</a></li> 
+		<li>Jonker, P. G. et al. 2004, Monthly Notices of the Royal Astronomical Society, 354, 666. <a href="http://adsabs.harvard.edu/abs/2004MNRAS.354..666J">Optical and X-ray observations of the neutron star soft X-ray transient XTE J1709-267</a></li> 
+		<li>Krisciunas, Kevin et al. 2004, The Astronomical Journal, 128, 3034. <a href="http://adsabs.harvard.edu/abs/2004AJ....128.3034K">Optical and Infrared Photometry of the Type Ia Supernovae 1991T, 1991bg, 1999ek, 2001bt, 2001cn, 2001cz, and 2002bo</a></li> 
+		<li>Krisciunas, Kevin et al. 2004, The Astrophysical Journal, 602, L81. <a href="http://adsabs.harvard.edu/abs/2004ApJ...602L..81K">Hubble Diagrams of Type Ia Supernovae in the Near-Infrared</a></li> 
+		<li>Lipkin, Y. M. et al. 2004, The Astrophysical Journal, 606, 381. <a href="http://adsabs.harvard.edu/abs/2004ApJ...606..381L">The Detailed Optical Light Curve of GRB 030329</a></li> 
+		<li>Maitra, Dipankar et al. 2004, The Astrophysical Journal, 608, 444. <a href="http://adsabs.harvard.edu/abs/2004ApJ...608..444M">Evolution of Spectral States of Aquila X-1 during the 2000 Outburst</a></li> 
+		<li>McSwain, M. V. et al. 2004, The Astrophysical Journal, 600, 927. <a href="http://adsabs.harvard.edu/abs/2004ApJ...600..927M">The N Enrichment and Supernova Ejection of the Runaway Microquasar LS 5039</a></li> 
+		<li>Prochaska, Jason X. et al. 2004, The Astrophysical Journal, 611, 200. <a href="http://adsabs.harvard.edu/abs/2004ApJ...611..200P">The Host Galaxy of GRB 031203: Implications of Its Low Metallicity, Low Redshift, and Starburst Nature</a></li> 
+		<li>Stassun, Keivan G. et al. 2004, The Astrophysical Journal Supplement Series, 151, 357. <a href="http://adsabs.harvard.edu/abs/2004ApJS..151..357S">Dynamical Mass Constraints on Low-Mass Pre-Main-Sequence Stellar Evolutionary Tracks: An Eclipsing Binary in Orion with a 1.0 M<SUB>solar</SUB> Primary and a 0.7 M<SUB>solar</SUB> Secondary</a></li> 
+		<li>Taylor, Stuart F. 2004, Publications of the Astronomical Society of the Pacific, 116, 1126. <a href="http://adsabs.harvard.edu/abs/2004PASP..116.1126T">Eclipsing Binaries in the Young Large Magellanic Cloud Cluster NGC 1850</a></li> 
+		<li>Walter, Frederick M. et al. 2004, The Astronomical Journal, 128, 1872. <a href="http://adsabs.harvard.edu/abs/2004AJ....128.1872W">V1647 Orionis (IRAS 05436-0007) in Outburst: The First Three Months</a></li> 
+	</ul> 
+</div>
+
+
+
+
+													</div>
+												</div>
+												<!--end references-->
+											</article>
+								
+									</div>
+								</div>
+								<div class="3u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+										<section>
+											<h2 class="icon fa-external-link-square">Links</h2>
+											<article>
+												<header>
+													<h3>SMARTS Members</h3>
+												</header>
+												<ul>
+													<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+													<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+													<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+													<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+													<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+													<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+													<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+													<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+													<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+													<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+													<li><a href="secondary.html">Secondary Members</a></li>
+												</ul>
+												<header>
+													<h3>Documents</h3>
+												</header>
+												<ul>
+													<li><a href="operatingplan.html">Current Operating Plan</a></li>
+													<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+												</ul>
+												<header>
+													<h3>External</h3>
+												</header>
+													<ul>
+														<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+													</ul>
+											</article>
+										</section>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+
+	</body>
+</html>

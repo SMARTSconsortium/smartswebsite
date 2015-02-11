@@ -1,0 +1,388 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Observing with SMARTS</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li class="current_page_item"><a href="observing.html">Observing</a></li>
+											<li>
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="#">Conference Precedings</a></li>
+													<li><a href="#">Telegrams</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="9u">
+									<div id="content">
+
+										<!-- Content -->
+									
+											<article>
+												<header class="major">
+													<h2>Observing with SMARTS</h2>
+													<p>Detailed information on observing, observation requests, and recieving data from the <a href="1.5m.html">1.5-m</a>, <a href="1.3m.html">1.3-m</a>, <a href="1.0m.html">1.0-m</a>, and <a href="0.9m.html">0.9-m</a> SMARTS telescopes is avaliable in their respective web pages</p>
+												</header>
+												
+												<span class="image featured"><img src="images/observing.jpg" alt="" /></span>
+												
+												<h1 class="icon fa-camera">  Photo-credit : T. Abbott and NOAO/AURA/NSF</h1>
+												
+												<h3>Proposal Information</h3>
+												<p>information</p>
+
+												<h3>Observing Schedules</h3>
+												<table>
+												<thead>
+													<tr><th>1.5-m</th><th>1.3-m</th><th>1.0-m</th><th>0.9-m</th></tr>
+												</thead>
+												<tr>
+												   <td><a href="https://docs.google.com/spreadsheets/d/1aQ81TpZhzciSps34FBQrPIfLeBU3trl56x3GvyY42bs/pubhtml?gid=1366362771&single=true" target="_blank">2015A</a></td>
+												   <td><a href="https://docs.google.com/spreadsheets/d/1O2jk_8xFW2f7hOYSbEoXIenJtSWdrUau7Frj6BeXtgA/pubhtml?gid=1323975429&single=true" target="_blank">2015A</a></td>
+												   <td><a href="/smarts/schedules/sched10m2015A.txt" target="_blank">2015A</a></td>  
+												   <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2015A.htm" target="_blank">2015A</a></td> 
+												</tr>
+												<tr>
+												   <td><a href="https://docs.google.com/a/yale.edu/spreadsheets/d/1fsvoTi5qfAriZaLcNvaNks5AdQ5DG_kCJpwiTWGz2UQ/edit#gid=1366362771" target="_blank">2014B</a></td>
+												   <td><a href="https://docs.google.com/a/yale.edu/spreadsheets/d/1ONYU6gSFCIdK7R6lBiclznBiNPSByrOwTSZZif3eUPM/edit" target="_blank">2014B</a></td>
+												   <td><a href="/smarts/schedules/sched10m2014b.txt" target="_blank">2014B</a></td>  
+												   <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2014B.htm" target="_blank">2014B</a></td> 
+												</tr>
+												</table>
+
+												<a class="button icon fa-arrow-circle-o-right">SHOW PAST SCHEDULES</a>
+												   <div style="display:none" id="hidden"> 
+												<h3>Past Schedules</h3>
+			<table>
+			  <tbody>
+			    <tr>
+			      <td><strong>1.5-m</strong></td>
+			      <td><strong>1.3-m</strong></td>
+			      <td><strong>1.0-m</strong></td>
+			      <td><strong>0.9-m</strong></td>
+			   </tr>		       
+                 	   <tr>
+			      <td><a href="https://docs.google.com/a/yale.edu/spreadsheets/d/1fsvoTi5qfAriZaLcNvaNks5AdQ5DG_kCJpwiTWGz2UQ/edit#gid=1366362771" target="_blank">1.5m 2014B</a></td>
+			      <td><a href="https://docs.google.com/a/yale.edu/spreadsheets/d/1ONYU6gSFCIdK7R6lBiclznBiNPSByrOwTSZZif3eUPM/edit" target="_blank">1.3m 2014B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2014b.txt" target="_blank">1.0m 2014B</a></td>
+			      <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2014B.htm" target="_blank">0.9m 2014B</a></td>
+		           </tr>                 	   
+			   <tr>
+			      <td><a href="https://docs.google.com/spreadsheet/ccc?key=0Asqf87y8wUt9dHdTVXVtaGNmZ2w2NXE3U0E0dmM0Unc&usp=sharing" target="_blank">1.5m 2014A</a></td>
+			      <td><a href="https://docs.google.com/spreadsheet/ccc?key=0Asqf87y8wUt9dGJNRkhUdDV2TTViVVhfaWJsSUZwUkE&usp=sharing" target="_blank">1.3m 2014A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2014a.txt" target="_blank">1.0m 2014A</a></td>
+			      <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2014A.htm" target="_blank">0.9m 2014A</a></td>
+		           </tr>
+			   <tr>
+			      <td><a href="/smarts/schedules/SMARTS13B1.5mSchedule-1.5m.pdf" target="_blank">1.5m 2013B</a></td>
+			      <td><a href="/smarts/schedules/SMARTS13B1.3mSchedule-1.3m.pdf" target="_blank">1.3m 2013B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2013b.txt" target="_blank">1.0m 2013B</a></td>
+			      <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2013B.htm" target="_blank">0.9m 2013B</a></td>
+		           </tr>
+			   <tr>
+			      <td><a href="/smarts/schedules/sched15m2013a.txt" target="_blank">1.5m 2013A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2013a.txt" target="_blank">1.3m 2013A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2013a.txt" target="_blank">1.0m 2013A</a></td>
+			      <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2013A.htm" target="_blank">0.9m 2013A</a></td>
+		           </tr>
+			   <tr>
+			      <td><a href="/smarts/schedules/sched15m2012b.txt" target="_blank">1.5m 2012B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2012b.txt" target="_blank">1.3m 2012B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2012b.txt" target="_blank">1.0m 2012B</a></td>
+			      <td><a href="http://www.astro.gsu.edu/~thenry/SMARTS/schedule2012B.htm" target="_blank">0.9m 2012B</a></td>
+		           </tr>
+			   <tr>
+			      <td><a href="/smarts/schedules/sched15m2012a.txt" target="_blank">1.5m 2012A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2012a.txt" target="_blank">1.3m 2012A</a></td>
+			      <td><a href="/smarts/schedules/sched09m10m2012a.txt" target="_blank">1.0m 2012A</a></td>
+			      <td><a href="/smarts/schedules/sched09m10m2012a.txt" target="_blank">0.9m 2012A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2011b.txt" target="_blank">1.5m 2011B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2011b.txt" target="_blank">1.3m 2011B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2011b.txt" target="_blank">1.0m 2011B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2011b.txt" target="_blank">0.9m 2011B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2011a.txt" target="_blank">1.5m 2011A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2011a.txt" target="_blank">1.3m 2011A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2011a.txt" target="_blank">1.0m 2011A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2011a.txt" target="_blank">0.9m 2011A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2010b.txt" target="_blank">1.5m 2010B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2010b.txt" target="_blank">1.3m 2010B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2010b.txt" target="_blank">1.0m 2010B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2010b.txt" target="_blank">0.9m 2010B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/15m10A.txt" target="_blank">1.5m 2010A</a></td>
+			      <td><a href="/smarts/schedules/13m10A.txt" target="_blank">1.3m 2010A</a></td>
+			      <td><a href="/smarts/schedules/10m10A.txt" target="_blank">1.0m 2010A</a></td>
+			      <td><a href="/smarts/schedules/09m10A.txt" target="_blank">0.9m 2010A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2009b.txt" target="_blank">1.5m 2009B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2009b.txt" target="_blank">1.3m 2009B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2009b.txt" target="_blank">1.0m 2009B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2009b.txt" target="_blank">0.9m 2009B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2009a.txt" target="_blank">1.5m 2009A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2009a.txt" target="_blank">1.3m 2009A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2009a.txt" target="_blank">1.0m 2009A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2009a.txt" target="_blank">0.9m 2009A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2008b.txt" target="_blank">1.5m 2008B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2008b.txt" target="_blank">1.3m 2008B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2008b.txt" target="_blank">1.0m 2008B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2008b.txt" target="_blank">0.9m 2008B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2008a.txt" target="_blank">1.5m 2008A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2008a.txt" target="_blank">1.3m 2008A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2008a.txt" target="_blank">1.0m 2008A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2008a.txt" target="_blank">0.9m 2008A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2007b.txt" target="_blank">1.5m 2007B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2007b.txt" target="_blank">1.3m 2007B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2007b.txt" target="_blank">1.0m 2007B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2007b.txt" target="_blank">0.9m 2007B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2007a.txt" target="_blank">1.5m 2007A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2007a.txt" target="_blank">1.3m 2007A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2007a.txt" target="_blank">1.0m 2007A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2007a.txt" target="_blank">0.9m 2007A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2006b.txt" target="_blank">1.5m 2006B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2006b.txt" target="_blank">1.3m 2006B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2006b.txt" target="_blank">1.0m 2006B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2006b.txt" target="_blank">0.9m 2006B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2006a.txt" target="_blank">1.5m 2006A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2006a.txt" target="_blank">1.3m 2006A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2006a.txt" target="_blank">1.0m 2006A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2006a.txt" target="_blank">0.9m 2006A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2005b.txt" target="_blank">1.5m 2005B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2005b.txt" target="_blank">1.3m 2005B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2005b.txt" target="_blank">1.0m 2005B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2005b.txt" target="_blank">0.9m 2005B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2005a.txt" target="_blank">1.5m 2005A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2005a.txt" target="_blank">1.3m 2005A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2005a.txt" target="_blank">1.0m 2005A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2005a.txt" target="_blank">0.9m 2005A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2004b.txt" target="_blank">1.5m 2004B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2004b.txt" target="_blank">1.3m 2004B</a></td>
+			      <td><a href="/smarts/schedules/sched10m2004b.txt" target="_blank">1.0m 2004B</a></td>
+			      <td><a href="/smarts/schedules/sched09m2004b.txt" target="_blank">0.9m 2004B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2004a.txt" target="_blank">1.5m 2004A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2004a.txt" target="_blank">1.3m 2004A</a></td>
+			      <td><a href="/smarts/schedules/sched10m2004a.txt" target="_blank">1.0m 2004A</a></td>
+			      <td><a href="/smarts/schedules/sched09m2004a.txt" target="_blank">0.9m 2004A</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2003b.txt" target="_blank">1.5m 2003B</a></td>
+			      <td><a href="/smarts/schedules/sched13m2003b.txt" target="_blank">1.3m 2003B</a></td>
+			      <td>-</td>
+			      <td><a href="/smarts/schedules/sched09m2003b.txt" target="_blank">0.9m 2003B</a></td>
+		        </tr>
+			    <tr>
+			      <td><a href="/smarts/schedules/sched15m2003a.txt" target="_blank">1.5m 2003A</a></td>
+			      <td><a href="/smarts/schedules/sched13m2003a.txt" target="_blank">1.3m 2003A</a></td>
+			      <td>-</td>
+			      <td><a href="/smarts/schedules/sched09m2003a.txt" target="_blank">0.9m 2003A</a></td>
+		        </tr>
+		      </tbody>
+		  </table>
+												</div>
+											</article>
+								
+									</div>
+								</div>
+								<div class="3u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+										<section>
+											<h2 class="icon fa-external-link-square">Links</h2>
+											<article>
+												<header>
+													<h3>SMARTS Members</h3>
+												</header>
+												<ul>
+													<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+													<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+													<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+													<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+													<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+													<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+													<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+													<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+													<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+													<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+													<li><a href="secondary.html">Secondary Members</a></li>
+												</ul>
+												<header>
+													<h3>Documents</h3>
+												</header>
+												<ul>
+													<li><a href="operatingplan.html">Current Operating Plan</a></li>
+													<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+													<li><a href="previous.html">Previous Semester's Schedules</a></li>
+												</ul>
+												<header>
+													<h3>External</h3>
+												</header>
+													<ul>
+														<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+													</ul>
+											</article>
+										</section>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+	<script>
+	$('a.button.icon.fa-arrow-circle-o-right').click(
+		function(){
+			$('#hidden').slideToggle(function(){
+				var state=$('a.button.icon.fa-arrow-circle-o-right').text();
+				if (state === "SHOW PAST SCHEDULES"){
+					$('a.button.icon.fa-arrow-circle-o-right').text("HIDE PAST SCHEDULES");
+				} else {
+					$('a.button.icon.fa-arrow-circle-o-right').text("SHOW PAST SCHEDULES");
+				}
+			
+			});
+		});
+	</script>
+	</body>
+</html>

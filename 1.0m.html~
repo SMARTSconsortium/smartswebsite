@@ -1,0 +1,243 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SMARTS 1.0-m</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li><a href="observing.html">Observing</a></li>
+											<li class="current_page_item">
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="nonrefereed.html">Telegrams &amp; Precedings</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="8u">
+									<div id="content">
+
+										<!-- Content -->
+									
+											<article>
+												<header class="major">
+													<h2>SMARTS 1.0-m</h2>
+												</header>
+												<span class="image featured"><img src="images/1.0m-bw.jpg" alt="" /></span>
+
+												<h1 class="icon fa-camera">  Photo-credit :  NOAO/AURA/NSF/CTIO</h1>
+
+												<h3>The Telescope</h3>
+
+												<p>The Yale 1.0-m telescope, originally sited in Bethany, CT, was moved to CTIO in 1972. Between 1998 and 2002 it was run by the YALO consortium.</p>
+
+												<p>The 1.0-m is an f/10 reflecting telescope with a closed tube Cassegrain design. The mounting and optics are very similar to that of the 0.9-m. It is controlled using a custom Comsoft PC-TCS/DCS system which includes full automation of the dome. A CTIO-built autoguider (with a fixed-position CCD guide camera) was installed in early 2004</p>
+												
+												<h3>The Detector</h3>
+												<p>From July 2005 until the present, the 1.0-m has been equipped with the dedicated STA 4064x4064 CCD known as Y4KCam. Y4KCam is a 4Kx4K optical CCD optimized for wide-field broad-band imaging.  It has a 12-position filter wheel and uses a corrector lens (doubling as the dewar window) that provides a nearly undistorted 20x20-arcminute field of view for UBVRI imaging.  The CCD has excellent blue sensitivity, especially at U-band.</p>
+											</article>
+								
+									</div>
+								</div>
+								<div class="4u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+											<section>
+												<h2 class="icon fa-external-link-square">Links</h2>
+												<article>
+													<header>
+														<h3>SMARTS Members</h3>
+													</header>
+													<ul>
+														<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+														<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+														<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+														<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+														<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+														<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+														<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+														<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+														<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+														<li><a href="secondary.html">Secondary Members</a></li>
+													</ul>
+													<header>
+														<h3>Documents</h3>
+													</header>
+													<ul>
+														<li><a href="operatingplan.html">Current Operating Plan</a></li>
+														<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+													</ul>
+													<header>
+														<h3>External</h3>
+													</header>
+														<ul>
+															<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+															<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+														</ul>
+												</article>
+											</section>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="wrapper style3">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="12u">
+									<header class="major">
+										<h2 style="text-align:center">Observing Runs</h2>
+										<p style="text-align:center">This telescope avaliable to private users at 600 USD per hour if a sufficient number of nights can be sold to ensure financial viability. Potential partners who are interested in providing thier own instrument are welcome to contact the SMARTS team.</p>
+									</header>
+								</div>
+							</div>
+							<div class="row">
+								<div class="6u">
+
+									
+										<section class="box article-list">
+											<h2 class="icon fa-info-circle">Instructions</h2>
+												<article class="box excerpt">
+													<div>
+														<header>
+															<h3><a href="http://www.astronomy.ohio-state.edu/Y4KCam/">User Observing</a></h3>
+														</header>
+														<p>Classical user observing is avaliable for the 1.0-m + Y4KCam. Resources for observers on telescope operation, data archiving, detector characteristics, and other manuals are provided for support.</p>
+													</div>
+												</article>
+										</section>
+								</div>
+								<div class="6u">
+								
+									
+										<section class="box article-list">
+											<h2 class="icon fa-code">User Data Reduction</h2>
+											<article class="box excerpt">
+												<header>
+													<h3><a href="http://www2.lowell.edu/users/massey/obins/y4kcamred.html">Reduction guide</a></h3>
+												</header>
+												<p>IRAF scripts for basic CCD processing and automated photometry for data taken with Y4kCam are provided courtesy of Phil Massey (Lowell). They may be adapted to suit particular science needs of different PIs who use this instrument.</p>
+											</article>
+										</section>
+								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+
+	</body>
+</html>

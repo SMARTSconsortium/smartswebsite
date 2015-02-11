@@ -1,0 +1,202 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>About SMARTS</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li class="current_page_item"><a href="about.html">About</a></li>
+											<li><a href="observing.html">Observing</a></li>
+											<li>
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="nonrefereed.html">Telegrams &amp; Precedings</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="9u">
+									<div id="content">
+
+										<!-- Content -->
+									
+											<article>
+												<header class="major">
+													<h2>About SMARTS</h2>
+													<p>The SMARTS Consortium operate the <a href="1.5m.html">1.5-m</a>, <a href="1.3m.html">1.3-m</a>, <a href="1.0m.html">1.0-m</a>, and <a href="0.9m.html">0.9-m</a> telescopes on Cerro Tololo. Membership to SMARTS is open to individuals, institutions, and international partners</p>
+												</header>
+												
+												<span class="image featured"><img src="images/CTIO-pan.jpg" alt="" /></span>
+												
+												<h1 class="icon fa-camera">  Photo-credit : T. Abbott and NOAO/AURA/NSF</h1>
+												
+												<h3>Join and Use SMARTS</h3>
+												<p>Inquiries from potential new members of SMARTS at a variety of levels are always encouraged, as opportunities to join the consortium typically arise every year. Members can purchase time on the SMARTS telescopes at very reasonable rates for single use observing runs that span a few days or weeks, or for distributed observing over one or more semesters for time-domain science.  Both user and service modes are available within the capabilities of the four SMARTS telescopes.  Acceptance of a new member depends on the balance of resources and scientific programs associated with current members.</p>
+
+												<p>Current rates for SMARTS are $600 USD per night for the 0.9m (Classical user observing mode only) and $200 USD per hour [NOTE: this is per scheduled hour, not executed hour, and includes overheads from telescope pointing and exposure time] for the 1.3m and 1.5m (queue-scheduled service observing mode only).</p>
+
+												<p>If you are interested in joining SMARTS, please contact <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a> for more information.
+
+												<h3>Membership</h3>
+												<p>Primary Members who contribute $25K USD or more are entitled to a seat on the SMARTS Management Council. Those who contribute less than $25K are considered Secondary Members and do not participate in the governance of SMARTS.</p>
+											</article>
+								
+									</div>
+								</div>
+								<div class="3u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+										<section>
+											<h2 class="icon fa-external-link-square">Links</h2>
+											<article>
+												<header>
+													<h3>SMARTS Members</h3>
+												</header>
+												<ul>
+													<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+													<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+													<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+													<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+													<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+													<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+													<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+													<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+													<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+													<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+													<li><a href="secondary.html">Secondary Members</a></li>
+												</ul>
+												<header>
+													<h3>Documents</h3>
+												</header>
+												<ul>
+													<li><a href="operatingplan.html">Current Operating Plan</a></li>
+													<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+												</ul>
+												<header>
+													<h3>External</h3>
+												</header>
+													<ul>
+														<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+													</ul>
+											</article>
+										</section>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+
+	</body>
+</html>

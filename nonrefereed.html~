@@ -1,0 +1,453 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Conference Proceedings and Telegrams</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<script>
+$(function() {
+$( "#accordion" ).accordion({
+heightStyle: "fill",
+animate: false
+});
+});
+		</script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+			<link rel="stylesheet" href="jquery-ui-1.11.2.custom/jquery-ui.css">
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="right-sidebar">
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<div class="container">
+
+					<!-- Header -->
+						<header id="header">
+							<div class="inner">
+							
+								<!-- Logo -->
+									<h1><a href="index.html" id="logo">SMARTS</a></h1>
+								
+								<!-- Nav -->
+									<nav id="nav">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<li><a href="observing.html">Observing</a></li>
+											<li>
+												<a href="#">Telescopes</a>
+												<ul>
+													<li><a href="1.5m.html">1.5-m + CHIRON</a></li>
+													<li><a href="1.3m.html">1.3-m + ANDICAM</a></li>
+													<li><a href="1.0m.html">1.0-m + 4KCCD</a></li>
+													<li><a href="0.9m.html">0.9-m + 2KCCD</a></li>
+												</ul>
+											</li>
+											<li>
+												<a class="current_page_item" href="#">Publications</a>
+												<ul>
+													<li><a href="refereed.html">Refereed</a></li>
+													<li><a href="#">Ph.D. Theses</a></li>
+													<li><a href="nonrefereed.html">Telegrams &amp; Proceedings</a></li>
+													<li><a href="#">Acknowledging SMARTS</a></li>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+							
+							</div>
+						</header>
+
+				</div>
+			</div>
+		
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="wrapper style2">
+					<div class="inner">
+						<div class="container">
+							<div class="row">
+								<div class="9u">
+									<div id="content">
+
+										<!-- Content -->
+									
+											<article>
+												<header class="major">
+													<h2>Conference Proceedings and Telegrams</h2>
+												</header>
+												
+												<span class="image featured"><img src="images/refereed.jpg" alt="" /></span>
+												
+												<h1 class="icon fa-camera">  Photo-credit : M. Urz&uacute;a Zu&ntilde;iga/Gemini Observatory</h1>
+												
+												<!--output of referencesAPI.py goes here-->
+												<div style="height:700px;margin-bottom:20px">
+													<div id="accordion">
+														<h3>2011</h3> 
+<div> 
+	<ul> 
+		<li>Bailyn, Charles D. et al. 2011, American Astronomical Society Meeting Abstracts #218. <a href="http://adsabs.harvard.edu/abs/2011AAS...21822905B">Long Term Monitoring of Black Hole Binaries with SMARTS</a></li> 
+		<li>Bonning, E. et al. 2011, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2011ATel.3337....1B">SMARTS optical and IR observations of PKS 1424-41</a></li> 
+		<li>Bonning, E. et al. 2011, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2011ATel.3212....1B">Optical and infrared observations of PKS 1124-186</a></li> 
+		<li>Chatterjee, Ritaban et al. 2011, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2011ATel.3591....1C ">Optical-IR Re-Brightening of the Blazar PKS 0208-512</a></li> 
+		<li>Chatterjee, Ritaban et al. 2011, American Astronomical Society Meeting Abstracts #218. <a href="http://adsabs.harvard.edu/abs/2011AAS...21832702C">Similarity of Optical-IR and Gamma-Ray Variability Properties of Fermi Blazars</a></li> 
+		<li>Isler, Jedidah et al. 2011, American Astronomical Society Meeting Abstracts #218. <a href="http://adsabs.harvard.edu/abs/2011AAS...21840808I">SMARTS Optical Spectroscopy of 3C 454.3</a></li> 
+		<li>MacDonald, Rachel K. D. et al. 2011, American Astronomical Society Meeting Abstracts #217. <a href="http://adsabs.harvard.edu/abs/2011AAS...21714420M">Mass of the Black Hole in V4641 Sgr</a></li> 
+		<li>Macias, Phillip et al. 2011, American Astronomical Society Meeting Abstracts #217. <a href="http://adsabs.harvard.edu/abs/2011AAS...21714304M">A Refined Black Hole Mass for the X-ray Transient GRS 1009-45</a></li> 
+		<li>Maitra, Dipankar et al. 2011, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2011IAUS..275...82M">Jets at lowest mass accretion rates</a></li> 
+		<li>Rabinowitz, David L. et al. 2011, American Astronomical Society Meeting Abstracts #217. <a href="http://adsabs.harvard.edu/abs/2011AAS...21712604R ">An Extremely Deep-Eclipsing Cataclysmic Variable discovered with La Silla - QUEST</a></li> 
+		<li>Wells Bonning, Erin et al. 2011, American Astronomical Society Meeting Abstracts #217. <a href="http://adsabs.harvard.edu/abs/2011AAS...21740801W ">The Exceptional Flaring Activity Of The Blazar 3C 454.3</a></li> 
+	</ul> 
+</div>
+<h3>2010</h3> 
+<div> 
+	<ul> 
+		<li>Bode, M. F. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2392....1B">Emergence of a Bright and Highly Variable Super-soft Source Phase in Nova KT Eri (2009)</a></li> 
+		<li>Bond, Howard E. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2640....1B">Optical Photometry of the New Optical Transient SN 2010da in NGC 300</a></li> 
+		<li>Buxton, M. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2549....1B">IR brightening and possible appearance of the compact jet in XTE J1752-223 in the hard state</a></li> 
+		<li>Buxton, M. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2522....1B">Optical and IR flare of blazar PKS B 1622-297</a></li> 
+		<li>Metcalfe, Travis S. et al. 2010, American Astronomical Society Meeting Abstracts #215. <a href="http://adsabs.harvard.edu/abs/2010AAS...21542416M">Activity Cycles of Southern Asteroseismic Targets</a></li> 
+		<li>Pagnotta, Ashley et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2507....1P">An Apparent Second Plateau in the UBVRIJHK Eruption Light Curve of the Recurrent Nova U Sco</a></li> 
+		<li>Prieto, J. L. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2660....1P">Optical and Near-IR Follow-up of SN 2010da: Evidence for Warm Dust</a></li> 
+		<li>Richardson, Noel D. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2560....1R">A Dramatic Change in the H-alpha Emission and Continuum Flux of S Doradus</a></li> 
+		<li>Russell, D. M. et al. 2010, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2010ATel.2547....1R">Optical/IR flux fading rapidly in GX 339-4: OIR jet quenching</a></li> 
+	</ul> 
+</div>
+<h3>2009</h3> 
+<div> 
+	<ul> 
+		<li>Bailyn, C. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2162....1B">Continued Optical Activity in PKS 2052-474</a></li> 
+		<li>Bonning, E. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2332....1B">Strong optical and IR brightening in the blazar 3C 454.3</a></li> 
+		<li>Buxton, M. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2181....1B">Optical and IR flare of 3C 454.3</a></li> 
+		<li>Buxton, M. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2207....1B">Possible Optical and IR flare of blazars 0235+164 and 1622-297</a></li> 
+		<li>Buxton, M. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2155....1B">Optical and IR flare of blazars 3C 454.3 and 3C 279</a></li> 
+		<li>Buxton, M. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.1899....1B">Optical and IR magnitudes of blazar PKS 1244-255</a></li> 
+		<li>Cobb, Bethany et al. 2009, American Astronomical Society Meeting Abstracts #213. <a href="http://adsabs.harvard.edu/abs/2009AAS...21335206C">SMARTS Long-term Gamma-ray Burst Monitoring: A Search For GRB-related Supernovae</a></li> 
+		<li>Drake, A. J. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2210....1D ">Recent Optical Transients from CRTS</a></li> 
+		<li>Mahabal, A. . A. et al. 2009, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2009ATel.2010....1M">CRTS Discovery of a very energetic Type IIn Supernova</a></li> 
+		<li>Schaefer, Bradley E. 2009, American Astronomical Society Meeting Abstracts #213. <a href="http://adsabs.harvard.edu/abs/2009AAS...21332004S">Front-line Recurrent Nova Science Requires Century Old Data</a></li> 
+	</ul> 
+</div>
+<h3>2008</h3> 
+<div> 
+	<ul> 
+		<li>Bayless, Amanda J. et al. 2008, A Population Explosion: The Nature & Evolution of X-ray Binaries in Diverse Environments. <a href="http://adsabs.harvard.edu/abs/2008AIPC.1010..174B">Optical and UV Light Curves of the Accretion Disk Corona Source 4U 1822-371</a></li> 
+		<li>Buxton, M. et al. 2008, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2008ATel.1751....1B">Increase in optical brightness of blazar PKS 0208-512</a></li> 
+		<li>Buxton, M. et al. 2008, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2008ATel.1746....1B">Optical and Near Infrared Observations of blazar AO 0235+16</a></li> 
+		<li>Cantrell, Andrew G. et al. 2008, A Population Explosion: The Nature & Evolution of X-ray Binaries in Diverse Environments. <a href="http://adsabs.harvard.edu/abs/2008AIPC.1010...69C">Optical State Changes in A0620-00 and the Interpretation of Ellipsoidal Light Curves</a></li> 
+		<li>Cargile, P. A. et al. 2008, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2008IAUS..248..490C">Exploiting kinematics and UBVIc photometry to establish high fidelity membership of the open cluster Blanco 1</a></li> 
+		<li>Hynes, Robert et al. 2008, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2008ATel.1816....1H">Optical Observations of EXO 0748-676 in Quiescence</a></li> 
+		<li>Kalemci, E. et al. 2008, American Institute of Physics Conference Series. <a href="http://adsabs.harvard.edu/abs/2008AIPC.1053..201K">Galactic black holes in the hard state, a multi-wavelength view of accretion and ejection</a></li> 
+		<li>Mahabal, A. et al. 2008, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2008ATel.1778....1M">Discovery and Confirmation of Supernovae from PQ and CRTS</a></li> 
+		<li>Migliari, Simone 2008, A Population Explosion: The Nature & Evolution of X-ray Binaries in Diverse Environments. <a href="http://adsabs.harvard.edu/abs/2008AIPC.1010...23M">The Complete Spectrum of a Compact Jet from a Neutron Star X-Ray Binary</a></li> 
+		<li>Pagnotta, A. et al. 2008, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2008IAUC.8951....3P">V2487 Ophiuchi</a></li> 
+		<li>Schaefer, Bradley E. et al. 2008, Icarus. <a href="http://adsabs.harvard.edu/abs/2008Icar..196..225S">Nereid: Light curve for 1999 2006 and a scenario for its variations</a></li> 
+	</ul> 
+</div>
+<h3>2007</h3> 
+<div> 
+	<ul> 
+		<li>Buxton, Michelle et al. 2007, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2007ATel.1109....1B">Flare at OIR wavelengths in GX 339-4</a></li> 
+		<li>Cobb, B. E. 2007, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2007GCN..6391....1C">GRB 070508, SMARTS optical afterglow observation.</a></li> 
+		<li>Cobb, B. E. 2007, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2007GCN..6296....1C">GRB 070318, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. 2007, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2007GCN..6347....1C">GRB 070420, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Gómez Maqueo Chew, Y. et al. 2007, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2007IAUS..240Q.330G">Near-Infrared Light Curves of a Young, Eclipsing Binary of Brown Dwarfs</a></li> 
+		<li>Henry, Todd J. et al. 2007, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2007AAS...21113416H">Dancing in the Dark --- Unseen Companions of Nearby Stars</a></li> 
+		<li>Kochanek, C. S. et al. 2007, Statistical Challenges in Modern Astronomy IV. <a href="http://adsabs.harvard.edu/abs/2007ASPC..371...43K">Turning AGN Microlensing from a Curiosity into a Tool</a></li> 
+		<li>Maitra, D. et al. 2007, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2007ATel.1080....1M">Optical/IR Confirmation of Outburst of Aql X-1</a></li> 
+		<li>Maitra, D. et al. 2007, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2007ATel.1218....1M">Optical and Near-IR Observations of the Current Outburst of Aql X-1</a></li> 
+		<li>Marshall, Kevin et al. 2007, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2007AAS...211.4615M">Correlated X-ray and Optical Variability in Mkn 509</a></li> 
+		<li>Mateu, C. et al. 2007, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2007IAUS..241..359M">Searching for RR Lyrae stars in the Canis Major overdensity</a></li> 
+		<li>Raghavan, Deepak et al. 2007, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2007IAUS..240..254R">A Survey of Stellar Families: Multiplicity Among Solar-type Stars</a></li> 
+		<li>Stringfellow, G. S. et al. 2007, IAU Symposium. <a href="http://adsabs.harvard.edu/abs/2007IAUS..240..386S">Early Evolution Of The 2006 Eruption Of The Recurrent Novae RS Oph</a></li> 
+		<li>Subasavage, J. P. et al. 2007, 15th European Workshop on White Dwarfs. <a href="http://adsabs.harvard.edu/abs/2007ASPC..372...53S">Identifying and Characterizing New Nearby White Dwarfs</a></li> 
+		<li>Walter, F. M. 2007, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2007IAUC.8800....2W">V1065 Centauri = Nova Centauri 2007</a></li> 
+		<li>Walter, F. M. et al. 2007, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2007ATel.1119....1W">The Optical Counterpart of SWIFT J195456.7+261301</a></li> 
+	</ul> 
+</div>
+<h3>2006</h3> 
+<div> 
+	<ul> 
+		<li>Ashcraft, Teresa A. et al. 2006, American Astronomical Society Meeting Abstracts #208. <a href="http://adsabs.harvard.edu/abs/2006AAS...208.4410A">Optical and Infrared Monitoring of the Accretion Disk Corona source V395 Car =2S 0921-630</a></li> 
+		<li>Bailyn, C. et al. 2006, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2006ATel..869....1B">new outburst of Aql X-1</a></li> 
+		<li>Beeler, Daniel J. et al. 2006, AAS/Division for Planetary Sciences Meeting Abstracts #38. <a href="http://adsabs.harvard.edu/abs/2006DPS....38.4419B">The Rotational Light Curve of 2005 FY9</a></li> 
+		<li>Bond, Howard E. 2006, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2006ATel..966....1B">V838 Mon engulfs its companion</a></li> 
+		<li>Chynoweth, Katie M. et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...20921706C">An Optical Datacube of Seyfert/Starburst Composite Galaxy NGC1365</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4869....1C">GRB 060313, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4618....1C">GRB 060130, SMARTS optical observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5111....1C">GRB 060428a, SMARTS optical/IR afterglow detection.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5362....1C">GRB 060728, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5734....1C">GRB 061019: SMARTS afterglow confirmation.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4972....1C">GRB 060418, SMARTS continuing afterglow observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5495....1C">GRB 060901: SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5878....1C">GRB 061121, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4970....1C">GRB 060418, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5323....1C">GRB 060714, SMARTS optical/IR afterglow observation.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5259....1C">GRB 060614, SMARTS optical/IR afterglow observation.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5938....1C">GRB 061218, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5497....1C">GRB 060901: SMARTS optical/IR observations update.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5935....1C">GRB 061217, SMARTS optical observations.</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4872....1C">GRB 060313, SMARTS optical counterpart?</a></li> 
+		<li>Cobb, B. E. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5180....1C">GRB 060526: SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5525....1C">GRB 060904b: SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5282....1C">GRB 060614: SMARTS host galaxy observations.</a></li> 
+		<li>Cobb, B. E. et al. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..4837....1C">GRB 060218/SN 2006aj, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. et al. 2006, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2006GCN..5465....1C">GRB 060729, SMARTS optical/IR observations.</a></li> 
+		<li>Ford, Holland et al. 2006, American Astronomical Society Meeting Abstracts #208. <a href="http://adsabs.harvard.edu/abs/2006AAS...208.2602F">A Search for Planets Transiting the M1Ve Star AU Mic: II</a></li> 
+		<li>Hebb, Leslie et al. 2006, American Astronomical Society Meeting Abstracts #208. <a href="http://adsabs.harvard.edu/abs/2006AAS...208.2601H">A Search for Planets Transiting the M1Ve Star AU Mic. I</a></li> 
+		<li>Henry, Todd J. et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...209.2404H">Clandestine Companions of Nearby Red Dwarfs</a></li> 
+		<li>Kuehn, Charles A., III et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...209.2907K">Variable Stars in the LMC Globular Cluster NGC 1754</a></li> 
+		<li>Maitra, D. et al. 2006, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2006ATel..706....1M">Optical Counterpart of J1701-462</a></li> 
+		<li>Maitra, D. et al. 2006, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2006ATel..712....1M">Near-Infra-Red Observations of XTE J1701-462 using SMARTS</a></li> 
+		<li>McSwain, M. V. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...20922806M">The B and Be Star Population of NGC 3766</a></li> 
+		<li>Metcalfe, T. S. et al. 2006, Proceedings of SOHO 18/GONG 2006/HELAS I, Beyond the spherical Sun. <a href="http://adsabs.harvard.edu/abs/2006ESASP.624E.111M">Calibrating the solar dynamo: magnetic activity cycles of southern Sun-like stars</a></li> 
+		<li>Petro, Larry D. et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...20919606P">Search for Planetary Transits of the Debris Disk Star AU Mic</a></li> 
+		<li>Rabinowitz, David L. et al. 2006, AAS/Division for Planetary Sciences Meeting Abstracts #38. <a href="http://adsabs.harvard.edu/abs/2006DPS....38.4004R">The Fresh Icy Surfaces of Pluto-sized Trans-Neptunian Objects</a></li> 
+		<li>Subasavage, John P., Jr. et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...20910305S">The Hunt for Nearby White Dwarfs</a></li> 
+		<li>Twelker, Karl et al. 2006, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2006AAS...20915616T">Expanding Ejecta in the Core-Collapse Supernova Remnant G292.0+1.8, Cas A’s Older Cousin</a></li> 
+	</ul> 
+</div>
+<h3>2005</h3> 
+<div> 
+	<ul> 
+		<li>Aggarwal, S. R. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...20711412A">Long-term Photometry of Eta Carinae</a></li> 
+		<li>Audard, M. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...207.7412A">The 2005 Accretion Outburst in V1118 Ori: Evidence for A Spectral Change in X-rays</a></li> 
+		<li>Bond, Howard E. 2005, Planetary Nebulae as Astronomical Tools. <a href="http://adsabs.harvard.edu/abs/2005AIPC..804..165B">Spectroscopic Binaries in Planetary Nebulae</a></li> 
+		<li>Buxton, Michelle et al. 2005, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2005ATel..418....1B">Optical and NIR observations of GRO J1655-40</a></li> 
+		<li>Buxton, Michelle et al. 2005, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2005ATel..485....1B">OIR decline in GRO J1655-40</a></li> 
+		<li>Buxton, Michelle et al. 2005, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2005ATel..468....1B">Start of OIR reflare in GX 339-4</a></li> 
+		<li>Cargile, P. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...207.7425C">A New Low-Mass, Pre-Main Sequence Eclipsing Binary: First Radial Velocities and Light Curves</a></li> 
+		<li>Carver, A. J. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...207.7006C">A Search for Superhumps in Possible SW Sextantis Stars</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3506....1C">GRB 050525a, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3729....1C">GRB 050801, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3694....1C">GRB 050724, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3708....1C">GRB 050730, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..4142....1C">GRB 051021, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3104....1C">GRB 050315, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3994....1C">GRB 050915b, SMARTS optical/IR observations of the XRT position.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3988....1C">GRB 050915b, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3208....1C">GRB 050408, SMARTS optical/IR afterglow observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3693....1C">GRB 050124, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..2981....1C">GRB 050124, SMARTS optical/IR observations.</a></li> 
+		<li>Cobb, B. E. et al. 2005, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2005GCN..3110....1C">GRB 050315, SMARTS optical afterglow decay.</a></li> 
+		<li>Jao, W. -C. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...20712406J">Nearby Cool Subdwarfs in a Bucket</a></li> 
+		<li>Kochanek, C. S. 2005, Gravitational Lensing Impact on Cosmology. <a href="http://adsabs.harvard.edu/abs/2005IAUS..225..205K">Where Does The Dark Matter Begin?</a></li> 
+		<li>Maitra, Dipankar et al. 2005, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2005ATel..450....1M">Aql X-1 optical/IR outburst</a></li> 
+		<li>Maitra, Dipankar et al. 2005, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2005ATel..628....1M">Optical Counterpart of J1726-47</a></li> 
+		<li>Rabinowitz, D. et al. 2005, AAS/Division for Planetary Sciences Meeting Abstracts #37. <a href="http://adsabs.harvard.edu/abs/2005DPS....37.5612R">Photometric observations of a very bright TNO with an extraordinary lightcurve.</a></li> 
+		<li>Raghavan, D. R. et al. 2005, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2005AAS...207.6804R">Two Suns in The Sky: Stellar Multiplicity in Exoplanet Systems</a></li> 
+		<li>Schaefer, B. E. et al. 2005, AAS/Division for Planetary Sciences Meeting Abstracts #37. <a href="http://adsabs.harvard.edu/abs/2005DPS....37.5614S">Nightly Observations in BVI of 25 KBOs and Centaurs Over a Whole Observing Season</a></li> 
+		<li>Schmidtobreick, L. et al. 2005, Information Bulletin on Variable Stars. <a href="http://adsabs.harvard.edu/abs/2005IBVS.5627....1S">On the orbital period of KQ Mon</a></li> 
+	</ul> 
+</div>
+<h3>2004</h3> 
+<div> 
+	<ul> 
+		<li>Bailyn, C. D. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516501B">The Small and Moderate Aperture Research Telescope System (SMARTS): an overview</a></li> 
+		<li>Bailyn, Charles et al. 2004, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2004ATel..323....1B">GX 339-4: Continued Optical and Infra-red Decline</a></li> 
+		<li>Barnes, S. A. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20515002B">A new scenario for the rotational evolution of solar- and late-type stars</a></li> 
+		<li>Bond, H. E. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8424....1B">Nova in the Large Magellanic Cloud 2004</a></li> 
+		<li>Bond, H. E. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8324....2B">V2574 Ophiuchi = Possible Nova in Ophiuchus</a></li> 
+		<li>Bond, H. E. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516506B">Searching for Spectroscopic Binary Nuclei of Southern Planetary Nebulae</a></li> 
+		<li>Brown, M. E. et al. 2004, AAS/Division for Planetary Sciences Meeting Abstracts #36. <a href="http://adsabs.harvard.edu/abs/2004DPS....36.0301B">A Sedna update: source, size, spectrum, surface, spin, satellite</a></li> 
+		<li>Buxton, M. M. et al. 2004, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2004ATel..316....1B">GX 339-4 : Significant decline in IR and Optical</a></li> 
+		<li>Buxton, M. M. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516504B">Optical and Near-Infrared Light Curves of Black-Hole X-ray Binaries during Outbursts</a></li> 
+		<li>Buxton, Michelle et al. 2004, X-ray Timing 2003: Rossi and Beyond. <a href="http://adsabs.harvard.edu/abs/2004AIPC..714..146B">Possible Optical/Infrared Jet Emission in 4U 1543-37</a></li> 
+		<li>Buxton, Michelle et al. 2004, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2004ATel..270....1B">GX 339-4 going into optical/IR decline</a></li> 
+		<li>Cobb, B. E. et al. 2004, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2004GCN..2642....1C">GRB040812, optical/IR observations.</a></li> 
+		<li>Dietrich, M. et al. 2004, The Interplay Among Black Holes, Stars and ISM in Galactic Nuclei. <a href="http://adsabs.harvard.edu/abs/2004IAUS..222...87D">EUV continuum of narrow-line Seyfert 1 galaxies</a></li> 
+		<li>Fernández, R. et al. 2004, Asymmetrical Planetary Nebulae III: Winds, Structure and the Thunderbird. <a href="http://adsabs.harvard.edu/abs/2004ASPC..313..236F">Kinematics and Proper Motion of the Ansae in NGC 7009</a></li> 
+		<li>French Emmons, L. et al. 2004, AAS/Division for Planetary Sciences Meeting Abstracts #36. <a href="http://adsabs.harvard.edu/abs/2004DPS....36.3406F">BVRI Photometry of C/2002 CE10 (LINEAR) and Primitive Asteroids</a></li> 
+		<li>Galli, L. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...205.1901G">Low Resolution Spectroscopy and Classifications of Eight Candidate Cataclysmic Variables</a></li> 
+		<li>Henry, T. J. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516507H">New Nearby Stars from NOAO and SMARTS Observations</a></li> 
+		<li>Hillwig, T. C. 2004, Asymmetrical Planetary Nebulae III: Winds, Structure and the Thunderbird. <a href="http://adsabs.harvard.edu/abs/2004ASPC..313..529H">Two New Close Binary Central Stars of Planetary Nebulae from a Critically Selected Southern Hemisphere Sample</a></li> 
+		<li>Jao, W. -C. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...205.5502J">Where are the stellar ``road runners'' -- beep beep -- in the sky?</a></li> 
+		<li>Knox, E. A. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...205.7111K">Optical Photometry of SN2003gs</a></li> 
+		<li>Krisciunas, K. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516502K">Type Ia Supernovae as Standardizable and Standard Candles</a></li> 
+		<li>Krisciunas, K. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8283....2K">Supernova 2004S in MCG -05-16-21</a></li> 
+		<li>Krisciunas, K. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8439....3K">Supernova 2004fv in NGC 6492</a></li> 
+		<li>Maitra, D. et al. 2004, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2004ATel..279....1M">Aql X-1 optical/IR outburst</a></li> 
+		<li>Maitra, D. et al. 2004, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2004ATel..288....1M">Aql X-1 outburst in Optical/IR/X-rays</a></li> 
+		<li>Maitra, Dipankar et al. 2004, X-ray Timing 2003: Rossi and Beyond. <a href="http://adsabs.harvard.edu/abs/2004AIPC..714...56M">Simultaneous Optical and X-ray Observations of the 2003 Outburst of V4641 Sgr ( = SAX J1819.3-2525)</a></li> 
+		<li>McSwain, M. V. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...205.1301M">A Photometric Search for Be Stars in Open Clusters</a></li> 
+		<li>Provencal, J. L. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516508P">High Speed Photometry with SMARTS Telescopes</a></li> 
+		<li>Rabinowitz, D. et al. 2004, AAS/Division for Planetary Sciences Meeting Abstracts #36. <a href="http://adsabs.harvard.edu/abs/2004DPS....36.0302R">The Wavelength Dependence of TNO and Centaur Phase Curves</a></li> 
+		<li>Rabinowitz, D. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8295....2R">2004 DW</a></li> 
+		<li>Schaefer, B. E. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8369....2S">Unusual Cataclysmic Variable in Hercules</a></li> 
+		<li>Schaefer, B. E. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8372....5S">V1186 Scorpii</a></li> 
+		<li>Schaefer, B. E. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516509S">Nereid, Sedna, and Many KBOs Every Night With SMARTS</a></li> 
+		<li>Schmidtobreick, L. et al. 2004, Information Bulletin on Variable Stars. <a href="http://adsabs.harvard.edu/abs/2004IBVS.5508....1S">Spectroscopic classification of a suspected SU UMa Star in Libra</a></li> 
+		<li>Spitzbart, B. D. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20515001S">An Archive of Chandra Observations of Regions of Star Formation (ANCHORS)</a></li> 
+		<li>Stassun, K. G. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20516503S">Using SMARTS for critical tests of star-formation theory</a></li> 
+		<li>Stringfellow, G. S. et al. 2004, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2004AAS...20515003S">Following the Photometric and Spectroscopic Outburst of the ONeMg Novae V1187 Sco: The First Three Months</a></li> 
+		<li>Suntzeff, N. et al. 2004, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2004IAUC.8283....1S">Supernova 2004S in MCG -05-16-21</a></li> 
+		<li>Walter, F. M. et al. 2004, AAS/High Energy Astrophysics Division #8. <a href="http://adsabs.harvard.edu/abs/2004HEAD....8.1005W">Does Accretion Heat the Coronae of T Tauri Stars?: The Highly Variable Mass Accretion of S CrA</a></li> 
+		<li>Winkler, P. F. et al. 2004, AAS/High Energy Astrophysics Division #8. <a href="http://adsabs.harvard.edu/abs/2004HEAD....8.2422W">Ejecta in the Oxygen-Rich SNR G292.0+1.8</a></li> 
+	</ul> 
+</div>
+<h3>2003</h3> 
+<div> 
+	<ul> 
+		<li>Bailyn, C. et al. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2486....1B">GRB 031203: SMARTS optical monitoring.</a></li> 
+		<li>Bailyn, C. et al. 2003, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2003ATel..171....1B">X-ray and Optical Activity in V4641 Sgr (=SAX 1819.3-2525)</a></li> 
+		<li>Bailyn, C. et al. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2463....1B">GRB 031203: Optical/IR SMARTS observations.</a></li> 
+		<li>Beaulieu, T. D. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.4304B">Optical Spectroscopy of Southern High Proper Motion Stars</a></li> 
+		<li>Bloom, J. S. et al. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2472....1B">GRB 031203: further reports on December 4 observations.</a></li> 
+		<li>Bloom, J. S. et al. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2481....1B">GRB 031203: Optical/IR astrometry.</a></li> 
+		<li>Bloom, J. S. et al. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2068....1B">GRB 030329: observations with ANDICAM.</a></li> 
+		<li>Bond, H. E. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2316....1B">XRF 030723, optical observations.</a></li> 
+		<li>Bond, H. E. 2003, GRB Coordinates Network. <a href="http://adsabs.harvard.edu/abs/2003GCN..2329....1B">XRF 030723: confirmation of fading optical counterpart.</a></li> 
+		<li>Bond, H. E. et al. 2003, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2003IAUC.8185....1B">Peculiar Variable in Crux</a></li> 
+		<li>Buxton, M. M. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.8103B">SMARTS/YALO Observations of the BH Candidates 4U1543-47 & GX 339-4: Evidence for Jet Emission?</a></li> 
+		<li>Buxton, M. et al. 2003, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2003ATel..170....1B">Optical Outburst of V4641 (=SAX J1819.3-2525)</a></li> 
+		<li>Buxton, M. et al. 2003, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2003ATel..206....1B">OIR observations of A1744-36 (=XTE J1748-361?)</a></li> 
+		<li>DePoy, Darren L. et al. 2003, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes. <a href="http://adsabs.harvard.edu/abs/2003SPIE.4841..827D">A Novel Double Imaging Camera (ANDICAM)</a></li> 
+		<li>Dietrich, M. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.5605D">The EUV Continuum Shape and Strength of NLS1 Galaxies</a></li> 
+		<li>Evans, R. et al. 2003, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2003IAUC.8186....1E">Supernova 2003hn in NGC 1448</a></li> 
+		<li>Fernandez, R. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.1106F">Proper Motion and Kinematics of the ansae in NGC 7009</a></li> 
+		<li>Henry, T. J. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.3701H">RECONS is Spying on Your Neighbors...</a></li> 
+		<li>Jao, W. -C. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.6003J">Something about the Highest Proper Motion Stars</a></li> 
+		<li>Koerner, D. W. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.4207K">Astrometric Search for Planets Encircling Nearby Stars (ASPENS)</a></li> 
+		<li>Liller, W. et al. 2003, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2003IAUC.8160....1L">Nova in the Large Magellanic Cloud</a></li> 
+		<li>Maitra, D. et al. 2003, The Astronomer's Telegram. <a href="http://adsabs.harvard.edu/abs/2003ATel..125....1M">Aql X-1 optical/IR outburst</a></li> 
+		<li>McFarland, J. P. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.7905M">Multi-wavelength Investigation of the Variability of the Blazars PKS 1510-089, PKS 1514-241, PKS 1622-297, and PKS 2155-304</a></li> 
+		<li>McSwain, M. V. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.3307M">Evolution of Massive Stars: The Be Star and Microquasar Phenomena</a></li> 
+		<li>Méndez, R. A. et al. 2003, Astronomy in Latin America. <a href="http://adsabs.harvard.edu/abs/2003ala..conf....1M">A trigonometric parallax survey of the Southern skies.</a></li> 
+		<li>Rabinowitz, D. et al. 2003, AAS/Division for Planetary Sciences Meeting Abstracts #35. <a href="http://adsabs.harvard.edu/abs/2003DPS....35.3916R">Solar Phase Curves for Kuiper-Belt Objects</a></li> 
+		<li>Raghavan, D. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.4205R">Two Suns in the Sky: Many Extrasolar Planets Orbiting Stars in Multiple Systems</a></li> 
+		<li>Subasavage, J. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.6004S">White Dwarfs in the Solar Neighborhood</a></li> 
+		<li>Tomovic, T. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.5606T">Optical and IR Variability Study of ESO141-G55 and IRAS09149-6206</a></li> 
+		<li>Wagner, R. M. et al. 2003, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2003IAUC.8176....3W">V4743 Sagittarii</a></li> 
+		<li>Zapata, A. A. et al. 2003, American Astronomical Society Meeting Abstracts. <a href="http://adsabs.harvard.edu/abs/2003AAS...203.4504Z">The Unusual Supernova 2002bo</a></li> 
+		<li>van Dokkum, P. et al. 2003, International Astronomical Union Circular. <a href="http://adsabs.harvard.edu/abs/2003IAUC.8250....1V">GRB 031203</a></li> 
+	</ul> 
+</div>
+
+
+
+
+
+													</div>
+												</div>
+												<!--end references-->
+											</article>
+								
+									</div>
+								</div>
+								<div class="3u">
+									<div id="sidebar">
+
+										<!-- Sidebar -->
+									
+										<section>
+											<h2 class="icon fa-external-link-square">Links</h2>
+											<article>
+												<header>
+													<h3>SMARTS Members</h3>
+												</header>
+												<ul>
+													<li><a href="http://physics.highpoint.edu/~bbarlow/" target="_blank">Brad Barlow (High Point University)</a></li>
+													<li><a href="http://exoplanets.astro.yale.edu/people/dfischer.php" target="_blank">Debra Fischer (Yale)</a></li>
+													<li><a href="http://www.astro.gsu.edu/" target="_blank">Georgia State University</a></li>
+													<li><a href="http://www.amnh.org/science/divisions/physsci/bio.php?scientist=shara" target="_blank">Michael Shara (AMNH)</a></li>
+													<li><a href="http://www.noao.edu/" target="_blank">NOAO</a>/<a href="http://www.ctio.noao.edu" target="_blank">CTIO</a></li>
+													<li><a href="http://www.astronomy.ohio-state.edu/" target="_blank">The Ohio State University</a></li>
+													<li><a href="http://www.physics.sunysb.edu/Physics/" target="_blank">SUNY-Stony Brook University</a></li>
+													<li><a href="http://www.astro.gsu.edu/~thenry/" target="_blank">Todd Henry (GSU)</a></li>
+													<li><a href="http://www.wesleyan.edu/astro" target="_blank">Wesleyan University</a></li>
+													<li><a href="http://www.astro.yale.edu/" target="_blank">Yale University</a></li>
+													<li><a href="secondary.html">Secondary Members</a></li>
+												</ul>
+												<header>
+													<h3>Documents</h3>
+												</header>
+												<ul>
+													<li><a href="operatingplan.html">Current Operating Plan</a></li>
+													<li><a href="SMARTS3FinalExecutedMOUs.pdf">SMARTS3 MoUs</a></li>
+												</ul>
+												<header>
+													<h3>External</h3>
+												</header>
+													<ul>
+														<li><a href="http://www.ctio.noao.edu/noao/content/observing-through-noao" target="_blank">Apply Through NOAO</a></li>
+														<li><a href="http://www.astro.gsu.edu/~thenry/SMARTS/" target="_blank">RECONS</a></li>
+													</ul>
+											</article>
+										</section>
+								
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer Wrapper -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div style="text-align: center">
+						<h2 style="font-size: 2.0em;">Contact Us</h2>
+					</div>
+
+					<div class="row">
+						<div class="4u">
+							<h2>General Inquiries</h2>
+							<ul>
+								<li>SMARTS/1.3-m/1.5-m : <a href="mailto:victoria.misenti@yale.edu">Victoria Misenti</a></li>
+								<li>0.9-m : <a href="mailto:thenry@astro.gsu.edu">Todd Henry</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>Scientific &amp; Technical Inquiries</h2>
+							<ul>
+								<li>0.9-m manager : <a href="mailto:thenry@astro.yale.edu">Todd Henry</a></li>
+								<li>1.3-m &amp; 1.5-m queue managers : <a href="mailto:emily.macpherson@yale.edu">Emily MacPherson</a>, <a href="mailto:imran.hasan@yale.edu">Imran Hasan</a></li>
+								<li>ANDICAM : <a href="mailto:pogge@astronomy.ohio-state.edu">Rick Pogge</a></li>
+								<li>CHIRON : <a href="mailto:debra.fischer@yale.edu">Debra Fischer</a></li>
+								<li>SIMON : <a href="mailto:mshara@amnh.org">Mike Shara</a></li>
+							</ul>
+						</div>
+						<div class="4u">
+							<h2>CTIO Direcor's Office</h2>
+							<ul>
+								<li>CTIO Director : <a href="sheathcote@ctio.noao.edu">Stephen Heathcote</a></li>
+								<li>CTIO Deputy Director : <a href="mailto:nvdbliek@ctio.noao.edu">Nicole van der Bliek</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u" style="padding-top:0">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; 2015 Yale University. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+
+	</body>
+</html>
