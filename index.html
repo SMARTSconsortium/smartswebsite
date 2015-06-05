@@ -11,19 +11,10 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
-		<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
-			<link rel="stylesheet" href="jquery-ui-1.11.2.custom/jquery-ui.css">
-		</noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-desktop.css" />
+		<link rel="stylesheet" href="jquery-ui-1.11.2.custom/jquery-ui.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	<body class="homepage">
@@ -74,6 +65,7 @@
 							<h2><strong>SMARTS</strong>
 							<br /><br />
 							<strong>S</strong>mall &amp; <strong>M</strong>oderate <strong>A</strong>perture <strong>R</strong>esearch <strong>T</strong>elescope <strong>S</strong>ystem</h2>
+							<a href="#one" class="more scrolly">Learn More</a>
 						</div>
 
 				</div>
@@ -294,6 +286,13 @@
 					</div>
 				</footer>
 			</div>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.dropotron.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
 	<script>
 	$('a.image.featured').css({opacity:0.9});
 	$('a.image.featured').mouseenter(
@@ -317,6 +316,13 @@
 				tooltipClass:'solidbackground'
 			});
 		});
+	</script>
+	<script>
+		$(window).load(function() {
+			var distance = $(document).height() - $('#banner h2').outerHeight(true)
+				- $('#banner h2').offset().top  - $('.more').height();
+			$('.more').animate({"bottom": distance+"px"}, "slow"); }
+		)
 	</script>
 	</body>
 </html>
