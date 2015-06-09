@@ -81,7 +81,7 @@
 								<div class="row">
 									<div class="12u">
 										<header class="first major">
-											<h2>Rich Science Accessible to All</h2>
+											<h2 id="teles">Rich Science Accessible to All</h2>
 											<p>The SMARTS Consortium operates four 1-meter class telecopes on Cerro Tololo. &nbsp;<a href="about.html">Membership in SMARTS</a>&nbsp;is open to individuals or institutions, including international partners.</p>
 										</header>
 									</div>
@@ -323,8 +323,13 @@
 			$('header#header').animate({opacity: 1}, 2500)
 			var distance = $(document).height() - $('#banner h2').outerHeight(true)
 				- $('#banner h2').offset().top  - $('.more').height();
-			$('.more').delay(3000).animate({"bottom": distance+"px"}, "slow"); }
-		)
+			$('.more').delay(3000).animate({"bottom": distance+"px"}, "slow"); 
+			$(".more").click(function() {
+			    $('html, body').animate({
+			        scrollTop: $("#teles").offset().top
+			    }, 1000);
+			});
+		})
 	</script>
 	</body>
 </html>
