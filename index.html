@@ -65,7 +65,7 @@
 							<h2><strong>SMARTS</strong>
 							<br /><br />
 							<strong>S</strong>mall &amp; <strong>M</strong>oderate <strong>A</strong>perture <strong>R</strong>esearch <strong>T</strong>elescope <strong>S</strong>ystem</h2>
-							<a href="#one" class="more scrolly">Learn More</a>
+							<a href="#" class="more scrolly">Learn More</a>
 						</div>
 
 				</div>
@@ -323,7 +323,7 @@
 			$('header#header').delay(2500).animate({opacity: 1}, 1000)
 			var distance = $(document).height() - $('#banner h2').outerHeight(true)
 				- $('#banner h2').offset().top  - $('.more').height();
-			$('.more').delay(2500).animate({"bottom": distance+"px"}, "slow"); 
+			$('.more').delay(3000).animate({"bottom": distance+"px"}, "slow"); 
 			$(".more").click(function() {
 			    $('html, body').animate({
 			        scrollTop: $("#teles").offset().top

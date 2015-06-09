@@ -155,13 +155,10 @@
 					</div>
 				</footer>
 			</div>
-	<script>
-		$(function(){
-			$(document).tooltip({
-				position: {my: "left+15 center", at:"right center"},
-				tooltipClass:'solidbackground'
-			});
-		});
-	</script>
+			<script>
+				$(window).load(function() {
+					$('#header-wrapper').animate({opacity: 0}, 0).css({'background-image': 'url(css/images/bg01.png), url(images/ctio2013.jpg)'}).animate({opacity: 1}, 0);
+				})
+			</script>
 	</body>
 </html>
