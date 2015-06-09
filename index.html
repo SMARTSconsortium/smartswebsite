@@ -320,10 +320,10 @@
 	<script>
 		$(window).load(function() {
 			$('#header-wrapper').animate({opacity: 0}, 0).css({'background-image': 'url(css/images/bg01.png), url(images/ctio2013.jpg)'}).animate({opacity: 1}, 2500);
-			$('header#header').animate({opacity: 1}, 2500)
+			$('header#header').delay(2500).animate({opacity: 1}, 1000)
 			var distance = $(document).height() - $('#banner h2').outerHeight(true)
 				- $('#banner h2').offset().top  - $('.more').height();
-			$('.more').delay(3000).animate({"bottom": distance+"px"}, "slow"); 
+			$('.more').delay(2500).animate({"bottom": distance+"px"}, "slow"); 
 			$(".more").click(function() {
 			    $('html, body').animate({
 			        scrollTop: $("#teles").offset().top
