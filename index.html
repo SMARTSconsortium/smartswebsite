@@ -74,14 +74,14 @@
 		<!-- Main Wrapper -->
 			<div id="main-wrapper">
 				<div class="wrapper style2">
-					<div class="inner">
+					<div id="teles" class="inner">
 				
 						<!-- Feature 1 -->
 							<section class="container box feature1">
 								<div class="row">
 									<div class="12u">
 										<header class="first major">
-											<h2 id="teles">Rich Science Accessible to All</h2>
+											<h2>Rich Science Accessible to All</h2>
 											<p>The SMARTS Consortium operates four 1-meter class telecopes on Cerro Tololo. &nbsp;<a href="about.html">Membership in SMARTS</a>&nbsp;is open to individuals or institutions, including international partners.</p>
 										</header>
 									</div>
@@ -121,10 +121,11 @@
 							</section>
 
 					</div>
+					<div class="faarrow"><i class="fa fa-arrow-circle-down fa-4x"></i></div>
 				</div>
 
 				<div class="wrapper style1">
-					<div class="inner">
+					<div id="knowmore" class="inner">
 						<div class="container">
 							<div class="row">
 								<div class="8u">
@@ -330,6 +331,11 @@
 			    }, 1000);
 			});
 		})
+		$(".fa-arrow-circle-down").click(function() {
+		    $('html, body').animate({
+		        scrollTop: $("#knowmore").offset().top
+		    }, 1000);
+		});		
 	</script>
 	</body>
 </html>

@@ -117,9 +117,10 @@
 							</div>
 						</div>
 					</div>
+					<div id="telearrow" class="faarrow"><i class="fa fa-arrow-circle-down fa-4x"></i></div>
 				</div>
 				<div class="wrapper style3">
-					<div class="inner">
+					<div id="obs" class="inner">
 						<div class="container">
 							<div class="row">
 								<div class="12u">
@@ -131,33 +132,28 @@
 							</div>
 							<div class="row">
 								<div class="6u">
-
-									
-										<section class="box article-list">
-											<h2 class="icon fa-info-circle">Instructions</h2>
-												<article class="box excerpt">
-													<div>
-														<header>
-															<h3><a href="http://www.astronomy.ohio-state.edu/Y4KCam/">User Observing</a></h3>
-														</header>
-														<p>Classical user observing is avaliable for the 1.0-m + Y4KCam. Resources for observers on telescope operation, data archiving, detector characteristics, and other manuals are provided for support.</p>
-													</div>
-												</article>
-										</section>
+									<section class="box article-list">
+										<h2 class="icon fa-info-circle">Instructions</h2>
+											<article class="box excerpt">
+												<div>
+													<header>
+														<h3><a href="http://www.astronomy.ohio-state.edu/Y4KCam/">User Observing</a></h3>
+													</header>
+													<p>Classical user observing is avaliable for the 1.0-m + Y4KCam. Resources for observers on telescope operation, data archiving, detector characteristics, and other manuals are provided for support.</p>
+												</div>
+											</article>
+									</section>
 								</div>
 								<div class="6u">
-								
-									
-										<section class="box article-list">
-											<h2 class="icon fa-code">User Data Reduction</h2>
-											<article class="box excerpt">
-												<header>
-													<h3><a href="http://www2.lowell.edu/users/massey/obins/y4kcamred.html">Reduction guide</a></h3>
-												</header>
-												<p>IRAF scripts for basic CCD processing and automated photometry for data taken with Y4kCam are provided courtesy of Phil Massey (Lowell). They may be adapted to suit particular science needs of different PIs who use this instrument.</p>
-											</article>
-										</section>
-								
+									<section class="box article-list">
+										<h2 class="icon fa-code">User Data Reduction</h2>
+										<article class="box excerpt">
+											<header>
+												<h3><a href="http://www2.lowell.edu/users/massey/obins/y4kcamred.html">Reduction guide</a></h3>
+											</header>
+											<p>IRAF scripts for basic CCD processing and automated photometry for data taken with Y4kCam are provided courtesy of Phil Massey (Lowell). They may be adapted to suit particular science needs of different PIs who use this instrument.</p>
+										</article>
+									</section>
 								</div>
 							</div>
 						</div>
@@ -213,6 +209,11 @@
 				$(window).load(function() {
 					$('#header-wrapper').animate({opacity: 0}, 0).css({'background-image': 'url(css/images/bg01.png), url(images/ctio2013.jpg)'}).animate({opacity: 1}, 0);
 				})
+				$("#telearrow").click(function() {
+				    $('html, body').animate({
+				        scrollTop: $("#obs").offset().top
+				    }, 1000);
+				});				
 			</script>
 
 	</body>

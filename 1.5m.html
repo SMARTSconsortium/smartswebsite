@@ -100,7 +100,7 @@
 												<p>The 1.5-m telescope is an open tube Cassegrian on a single-arm equatorial mount. All Cassegrain instruments are mounted on an instrument rotator, and thus they may be placed at any position angle on the sky. RC-Spec and SIMON have been recent guest instruments on the 1.5, mounted a long with CHIRON</p>
 
 											</article>
-								
+											
 									</div>
 								</div>
 								<div class="5u">
@@ -123,9 +123,10 @@
 							</div>
 						</div>
 					</div>
+					<div id="telearrow" class="faarrow"><i class="fa fa-arrow-circle-down fa-4x"></i></div>
 				</div>
 				<div class="wrapper style3">
-					<div class="inner">
+					<div id="obs" class="inner">
 						<div class="container">
 							<div class="row">
 								<div class="12u">
@@ -169,9 +170,10 @@
 							</div>
 						</div>
 					</div>
+					<div id="obsarrow" class="faarrow"><i class="fa fa-arrow-circle-down fa-4x"></i></div>					
 				</div>
 				<div class="wrapper style1">
-					<div class="inner">
+					<div id="data" class="inner">
 						<div class="container">
 							<div class="row">
 								<div class="12u">
@@ -210,7 +212,6 @@
 												<p>CHIRON astronomers may request their data to be reduced, at no further cost. The extracted spectra are provided as a data cube in a fits file. A discussion of the reduction process can be found <a href="http://www.ctio.noao.edu/noao/sites/default/files/telescopes/smarts/tele15/chireduce.pdf">here</a>. Please note that the extracted spectra are in the wavelength range 450-885nm, and are not sky-subtracted.</p>
 											</article>
 										</section>
-								
 								</div>
 							</div>
 						</div>
@@ -266,7 +267,16 @@
 				$(window).load(function() {
 					$('#header-wrapper').animate({opacity: 0}, 0).css({'background-image': 'url(css/images/bg01.png), url(images/ctio2013.jpg)'}).animate({opacity: 1}, 0);
 				})
+				$("#telearrow").click(function() {
+				    $('html, body').animate({
+				        scrollTop: $("#obs").offset().top
+				    }, 1000);
+				});
+				$("#obsarrow").click(function() {
+				    $('html, body').animate({
+				        scrollTop: $("#data").offset().top
+				    }, 1000);
+				});				
 			</script>
-
 	</body>
 </html>
