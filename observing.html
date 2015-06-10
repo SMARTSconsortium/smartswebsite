@@ -329,21 +329,18 @@
 				</footer>
 			</div>
 	<script>
-	$('a.button.icon.fa-arrow-circle-o-right').click(
-		function(){
-		    $('html, body').animate({
-		        scrollTop: $("a.button.icon.fa-arrow-circle-o-right").offset().top
-		    }, 500);	
-			$('#hidden').delay(500).slideToggle(function(){
-				var state=$('a.button.icon.fa-arrow-circle-o-right').text();
-				if (state === "SHOW PAST SCHEDULES"){
-					$('a.button.icon.fa-arrow-circle-o-right').text("HIDE PAST SCHEDULES");
-				} else {
-					$('a.button.icon.fa-arrow-circle-o-right').text("SHOW PAST SCHEDULES");
-				}
-			
-			});
-		});
+	$('a.button.icon.fa-arrow-circle-o-right').click( function(){
+		var state=$('a.button.icon.fa-arrow-circle-o-right').text();
+		if (state === "SHOW PAST SCHEDULES"){
+	    $('html, body').animate({
+	        scrollTop: $("a.button.icon.fa-arrow-circle-o-right").offset().top
+	    }, 500);			
+			$('a.button.icon.fa-arrow-circle-o-right').text("HIDE PAST SCHEDULES");
+		} else {
+			$('a.button.icon.fa-arrow-circle-o-right').text("SHOW PAST SCHEDULES");
+		}
+		$('#hidden').slideToggle();			
+	});
 	</script>
 			<script>
 				$(window).load(function() {
