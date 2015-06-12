@@ -335,7 +335,16 @@
 		    $('html, body').animate({
 		        scrollTop: $("#knowmore").offset().top
 		    }, 1000);
-		});		
+		});
+		$('.more').mouseenter(
+			function(){
+				$(this).css('text-shadow','1px 1px 10px');
+			}
+		).mouseleave(
+			function(){
+				$(this).css('text-shadow','0 0 0')
+			}
+		)
 	</script>
 	</body>
 </html>
