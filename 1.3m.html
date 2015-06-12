@@ -123,19 +123,18 @@
 								</div>
 							</div>
 							<div class="row">
-								<div class="8u">
+								<div class="6u">
 
 									<!-- Article list -->
 										<section class="box article-list">
-											<h2 class="icon fa-info-circle">Instructions</h2>
 											
 											<!-- Excerpt -->
 												<article class="box excerpt">
 													<div>
 														<header>
-															<h3><a href="#">Phase II Submission Instructions</a></h3>
+															<h3><a href="http://www.astro.yale.edu/smarts/ANDICAM/Obs/phase2.html">Create An Observing Plan</a></h3>
 														</header>
-														<p>Once a project has been approved for observing with ANDICAM, the PI needs to submit a detailed "Phase II" observing plan to the queue manager. This plan consists of a set of observations to be carried out, each "unit" observation of which is described by one or more data-acquisition template files called "Observation Templates" or "obs files". A set of written instructions for how to use these obs files to execute your program observations rounds out the Phase II submission package. Other elements may be required for more complex programs or those with long target lists.</p>
+														<p>Once a proposal has been accepted, the PI needs to submit an observing plan to the queue manager. This plan consists of a set of observations to be carried out. Each "unit" observation of is described by one or more data-acquisition template files called "Observation Templates" or "obs files".</p>
 													</div>
 												</article>
 
@@ -143,38 +142,33 @@
 												<article class="box excerpt">
 													<div>
 														<header>
-															<h3><a href="#">Obs File Instructions</a></h3>
+															<h3><a href="http://www.astro.yale.edu/smarts/ANDICAM/Obs/obshelp.html">Create Observation Files</a></h3>
 														</header>
 														<p>Obs files define the target parameters and the instrument and exposure configuration of the smallest schedulable "unit observation" that can be acquired with the ANDICAM. A "unit observation" means that the choice of filters and the base integration times for each channel are fixed, but multiple images with those filters and integration times may be acquired. Similarly, IR channel observations can be dithered between images using internal tip/tilt mirror. If observations with different filters or exposure times are required, the astronomer must create a different obs file.</p>
-													</div>
-												</article>
 
-											<!-- Excerpt -->
-												<article class="box excerpt">
-													<div>
-														<header>
-															<h3><a href="#">Multi-Obs File Instructions</a></h3>
-														</header>
-														<p>Obs files define "unit observations", specifying the instrument, detector, and target parameters and configurations needed to acquire a single observation. In addition, astronomers can create simple Multi-Observation Scripts that are used to execute a sequence of obs files for a single target. Two basic uses for multi-obsrvation scrits are complex synopic observations, and survey observations.</p>
+														<p>Once created, Obs files may be <a href="http://www.astro.yale.edu/smarts/ANDICAM/Obs/mgrhelp.html">Edited, renamed, or deleted</a></p>
 													</div>
 												</article>
 
 										</section>
 								</div>
-								<div class="4u">
+								<div class="6u">
 								
 									<!-- Spotlight -->
-										<section class="box spotlight">
-											<h2 class="icon fa-file-text-o">Phase II</h2>
-											<article>
+										<section class="box article-list">
+											<article class="box excerpt">
+												<div>
+													<header>
+														<h3><a href="http://www.astro.yale.edu/smarts/ANDICAM/Obs/moshelp.html">Create Multi-Obs Files</a></h3>
+													</header>
+													<p>Obs files define "unit observations", specifying the instrument, detector, and target parameters and configurations needed to acquire a single observation. In addition, astronomers can create simple Multi-Observation Scripts that are used to execute a sequence of obs files for a single target. Two basic uses for multi-obsrvation scrits are complex synopic observations, and survey observations.</p>
+												</div>
+											</article>											
+											<article class="box excerpt">
 												<header>
-													<h3><a href="#">Phase II Forms</a></h3>
+													<h3><a href="http://www.astro.yale.edu/smarts/ANDICAM/Obs/ph2help.html">Phase II Submission: Request Observations</a></h3>
 												</header>
-												<p>If your program has been accepted, you may create, edit, and submit your observing plan. Click the link above to create observation requests with target names and coordinates, exposure times, desired filters, and more. Once your plan is finished, submit it and observations will begin as requested</p>
-												<header>
-													<h3><a href="">Phase II Submission</a></h3>
-												</header>
-												<p>Once you have created a set of Observation Template files ("obs files") for all of your program targets, you use the Phase II Submission Form to submit them to the SMARTS 1.3m telescope queue for implementation along with a set of detailed instructions for how to execute your observing program.</p>
+												<p>When satisfied with your Observation plan and Observation files, use the Phase II Submission Form to submit them to the SMARTS 1.3m telescope queue for implementation, along with a set of detailed instructions for how to execute your observing program.</p>
 											</article>
 										</section>
 								
@@ -207,7 +201,7 @@
 														<header>
 															<h3><a href="ftp://smarts.astro.yale.edu/pub/smarts13m/">SMARTS FTP Site</a></h3>
 														</header>
-														<p>Once an observation for your program has been carried out, an automated notification will be sent to you via email. Within a day or two you can expect to find your data avaliable for download on the SMARTS FTP site, along with calibration frames and photometric standards.</p>
+														<p>Once an observation for your program has been carried out, an automated notification will be sent to you via email. Within a day or two the observatons will be distributed via the <a href="ftp://smarts.astro.yale.edu/pub/smarts13m/">SMARTS FTP site</a>, along with calibration frames and photometric standards. Your data will be under a directory named after your proposal ID, IR flats are under the directory flatsir/, and optical and IR photometric standard stars are under standardsccd/ and standardsir/, respectively.</p>
 													</div>
 												</article>
 										</section>
@@ -221,7 +215,7 @@
 												<header>
 													<h3><a href="http://www.astro.yale.edu/smarts/smarts13m/optprocessing.html">Reduction</a></h3>
 												</header>
-												<p>All optical data posted to the SMARTS FTP site is bias subtracted and flat field calibrated as a service to smarts members. The infrared data is binned, but not reduced further. SMARTS PIs may combine dithered IR images and preform flat fielding as needed. The a guide to the reduction can be found <a href="http://www.astro.yale.edu/smarts/smarts13m/optprocessing.html">here</a>.</p>
+												<p>All optical data posted to the SMARTS FTP site is bias subtracted and flat field calibrated as a service to smarts members. The infrared data is binned, but not reduced further. SMARTS PIs may combine dithered IR images and preform flat fielding as needed. The a guide to the reduction can be found <a href="http://www.astro.yale.edu/smarts/smarts13m/optprocessing.html">here</a>. Additionally, the entire reduction pipeline is avaliable to view on the SMARTS organization's Github accout, <a href="https://github.com/SMARTSconsortium/ANDICAM">here</a></p>
 											</article>
 										</section>
 								
