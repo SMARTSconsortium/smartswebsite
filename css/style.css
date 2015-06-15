@@ -993,7 +993,7 @@ div.faarrow{
 
 #banner .more {
 	border: none;
-	bottom: 0;
+	/*bottom: 0;*/
 	color: #ffffff;
 	font-size: 1.0em;
 	height: 8.5em;
